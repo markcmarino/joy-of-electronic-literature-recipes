@@ -1,7 +1,9 @@
 # Joy of Electronic Literature Recipes
 
+collected by Lillian-Yvonne Bertram, Stuart Moultrhop, and Mark C. Marino
+
 A collaborative cookbook documenting works of electronic literature as structured,
-shareable recipes — submitted by the community via GitHub Pull Request.
+shareable recipes — submitted by the community, expandable via GitHub Pull Request.
 
 ## Table of Contents by Chef
 
