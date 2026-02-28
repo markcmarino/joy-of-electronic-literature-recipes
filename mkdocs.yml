@@ -9,6 +9,9 @@ theme:
     - navigation.tabs
     - search.highlight
 
+extra_css:
+  - stylesheets/recipes.css
+
 docs_dir: docs
 
 nav:

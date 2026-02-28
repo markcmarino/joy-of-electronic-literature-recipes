@@ -1,0 +1,164 @@
+/* Recipe Metadata Vertical Display Styles */
+
+/*
+ * Convert horizontal metadata tables/lists to vertical stacked format
+ * Targets metadata rendered from YAML frontmatter without changing source
+ */
+
+/* Style metadata tables to stack vertically */
+article table:first-of-type,
+.md-content table:first-of-type {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin: 1.5em 0;
+}
+
+/* Make table rows stack as blocks */
+article table:first-of-type tr,
+.md-content table:first-of-type tr {
+    display: block;
+    margin-bottom: 1em;
+    border-left: 3px solid var(--md-accent-fg-color, #ffc107);
+    padding-left: 1em;
+    background: rgba(0, 0, 0, 0.02);
+}
+
+/* Style table headers (field names) as labels above values */
+article table:first-of-type th,
+.md-content table:first-of-type th {
+    display: block;
+    font-weight: 600;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--md-primary-fg-color, #673ab7);
+    padding: 0.5em 0 0.25em 0;
+    border: none;
+    text-align: left;
+}
+
+/* Style table data (field values) below labels */
+article table:first-of-type td,
+.md-content table:first-of-type td {
+    display: block;
+    padding: 0.25em 0 0.5em 0;
+    border: none;
+    color: var(--md-default-fg-color);
+    line-height: 1.6;
+}
+
+/* Style definition lists (dl/dt/dd) for vertical metadata */
+article dl:first-of-type,
+.md-content dl:first-of-type {
+    display: block;
+    margin: 1.5em 0;
+}
+
+article dl:first-of-type dt,
+.md-content dl:first-of-type dt {
+    font-weight: 600;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--md-primary-fg-color, #673ab7);
+    margin-top: 1em;
+    margin-bottom: 0.25em;
+}
+
+article dl:first-of-type dt:first-child,
+.md-content dl:first-of-type dt:first-child {
+    margin-top: 0;
+}
+
+article dl:first-of-type dd,
+.md-content dl:first-of-type dd {
+    margin-left: 0;
+    padding-left: 1em;
+    border-left: 3px solid var(--md-accent-fg-color, #ffc107);
+    margin-bottom: 1em;
+    line-height: 1.6;
+    background: rgba(0, 0, 0, 0.02);
+    padding: 0.5em 0.5em 0.5em 1em;
+}
+
+/* Style for metadata sections wrapped in divs */
+.recipe-metadata,
+[class*="metadata"] {
+    margin: 1.5em 0;
+}
+
+.recipe-metadata > *,
+[class*="metadata"] > * {
+    display: block;
+    margin-bottom: 1em;
+}
+
+/* Ensure lists within metadata display properly */
+article table:first-of-type ul,
+article table:first-of-type ol,
+article dl:first-of-type ul,
+article dl:first-of-type ol {
+    margin: 0.5em 0;
+    padding-left: 1.5em;
+}
+
+article table:first-of-type li,
+article dl:first-of-type li {
+    margin: 0.25em 0;
+}
+
+/* Special styling for specific metadata fields */
+
+/* Title field - make it prominent */
+article table:first-of-type tr:has(th:contains("title")) td,
+article table:first-of-type tr:has(th:contains("Title")) td,
+article dl:first-of-type dd:first-of-type {
+    font-size: 1.1em;
+    font-weight: 500;
+}
+
+/* Description field - give it more breathing room */
+article table:first-of-type tr:has(th:contains("description")) td,
+article table:first-of-type tr:has(th:contains("Description")) td {
+    line-height: 1.7;
+    padding-bottom: 1em;
+}
+
+/* Difficulty rating - inline display for compact presentation */
+article table:first-of-type tr:has(th:contains("difficulty")) td,
+article table:first-of-type tr:has(th:contains("Difficulty")) td {
+    font-weight: 500;
+}
+
+/* Links - style appropriately */
+article table:first-of-type a,
+article dl:first-of-type a {
+    color: var(--md-accent-fg-color, #ffc107);
+    text-decoration: none;
+    border-bottom: 1px solid currentColor;
+}
+
+article table:first-of-type a:hover,
+article dl:first-of-type a:hover {
+    border-bottom: 2px solid currentColor;
+}
+
+/* Responsive: On small screens, ensure full width */
+@media screen and (max-width: 768px) {
+    article table:first-of-type,
+    .md-content table:first-of-type,
+    article dl:first-of-type,
+    .md-content dl:first-of-type {
+        width: 100%;
+        overflow-x: visible;
+    }
+}
+
+/* Dark mode adjustments */
+[data-md-color-scheme="slate"] article table:first-of-type tr,
+[data-md-color-scheme="slate"] .md-content table:first-of-type tr,
+[data-md-color-scheme="slate"] article dl:first-of-type dd,
+[data-md-color-scheme="slate"] .md-content dl:first-of-type dd {
+    background: rgba(255, 255, 255, 0.05);
+}
