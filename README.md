@@ -29,6 +29,10 @@ shareable recipes — submitted by the community via GitHub Pull Request.
 
 - **Gero, Katy Ilonka** - [Dis/Appearing Recipe](docs/recipes/disappearing-recipe.md)
 
+### J
+
+- **Johnston, David Jhave** - [Less-Thought: A General Art-Recipe for Joyous E-Lit](docs/recipes/less-thought.md)
+
 ### K
 
 - **Klimas, Chris** - [À la recherche du lieu perdu](docs/recipes/a-la-recherche-du-lieu-perdu.md)
@@ -64,6 +68,7 @@ shareable recipes — submitted by the community via GitHub Pull Request.
 
 ### T
 
+- **Tisselli, Eugenio** - [Degenerative](docs/recipes/degenerative.md)
 - **Torres, Rui** - [Soul Stew: A Digital Poetry Dish with Camões and Dinamene](docs/recipes/soul-stew.md)
 - **Tschofen, Monique** - [Deformances](docs/recipes/deformances.md)
 
@@ -76,6 +81,7 @@ shareable recipes — submitted by the community via GitHub Pull Request.
 
 - **Wang, Melanie** - [AI as Mirror](docs/recipes/ai-as-mirror.md)
 - **Wilks, Christine** - [Poemscape](docs/recipes/poemscape.md)
+- **Wittig, Rob & Mark C. Marino** - [Pr0c3ss1ng: A Netprov Support Group for AI Assistants](docs/recipes/pr0c3ss1ng.md)
 
 ---
 

@@ -84,7 +84,7 @@ Skip `_template.md` — it is not a recipe.
 
 ---
 
-## Completed Recipes (27 of ~25)
+## Completed Recipes (30 of 30) ✅
 
 | File | Chef(s) |
 |------|---------|
@@ -115,19 +115,20 @@ Skip `_template.md` — it is not a recipe.
 | `disappearing-recipe.md` | Gero |
 | `poemscape.md` | Wilks |
 | `soul-stew.md` | Torres |
+| `degenerative.md` | Tisselli |
+| `pr0c3ss1ng.md` | Wittig & Marino |
+| `less-thought.md` | Johnston |
 
 Note: "2.5 Montfort" (Cooking Computational Literature, line ~2258) is an essay/interlude,
 not a standard recipe — omitted from recipe files.
 
 ---
 
-## Remaining Recipes (pick up from line ~5234)
+## Remaining Recipes
 
-| Author | Approx. line | Title (from source) |
-|--------|-------------|---------------------|
-| Tisselli | 5234 | Degenerative |
-| (unknown) | 5414 | Netprov recipe |
-| (unknown) | 5591 | Less-Thought |
+**✅ ALL RECIPES COMPLETED!**
+
+The transfer is complete. All 30 recipes from the source file have been successfully migrated to the repository.
 
 ---
 
