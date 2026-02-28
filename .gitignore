@@ -1,0 +1,10 @@
+site/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Export outputs (generated, not committed)
+recipes.csv
+recipe_cards.md
+recipe_cards.docx
