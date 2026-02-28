@@ -84,7 +84,7 @@ Skip `_template.md` — it is not a recipe.
 
 ---
 
-## Completed Recipes (9 of ~25)
+## Completed Recipes (21 of ~25)
 
 | File | Chef(s) |
 |------|---------|
@@ -97,26 +97,31 @@ Skip `_template.md` — it is not a recipe.
 | `unleashing-linking-powers.md` | Larsen |
 | `interactive-lyric-videos.md` | Loyer |
 | `kids-in-the-kitchen.md` | Skains |
+| `chatting-in-the-funhouse.md` | McDaid |
+| `ai-as-mirror.md` | Wang |
+| `gastropoetic-generator.md` | Memmott & Rettberg |
+| `jolly-apogee.md` | Morrissey |
+| `labeling.md` | Parrish |
+| `a-la-recherche-du-lieu-perdu.md` | Klimas |
+| `choice-constrained-twine.md` | Salter |
+| `mashed-soup.md` | Pintar |
+| `arabian-labyrinth.md` | Veeder |
+| `cyborg-digital-writing.md` | Flores |
+| `online-survey-poems.md` | Saum-Pascual |
+| `queering-bash.md` | Soon & Karagianni |
+
+Note: "2.5 Montfort" (Cooking Computational Literature, line ~2258) is an essay/interlude,
+not a standard recipe — omitted from recipe files.
 
 ---
 
-## Remaining Recipes (pick up from line ~1303)
+## Remaining Recipes (pick up from line ~3951)
 
 | Author | Approx. line | Title (from source) |
 |--------|-------------|---------------------|
-| McDaid | 1303 | Chatting in the Funhouse |
-| Wang | 1415 | AI as Mirror |
-| Memmott-Rettberg | 2067 | Gastropoetic Generator |
-| Morrissey | 2347 | Jolly Apogee |
-| Parrish | 2414 | Labeling |
-| Klimas | 2651 | À la recherche du lieu perdu |
-| Salter | 2724 | Choice-Constrained Twine with Harlowe 3.x |
-| Pintar | 2806 | Mashed Soup |
-| Saum-Pascual | 3666 | Online Survey Poems |
-| Soon-Karagianni | 3745 | Queering Bash |
 | Tschofen | 3951 | Deformances |
-| Strickland-Hatcher | 4139 | (title TBD — read from file) |
-| Vilaplana | 4380 | (title TBD — read from file) |
+| Strickland-Hatcher | 4139 | How to Bake a Citation Cake |
+| Vilaplana | 4380 | Modest Beginnings |
 | Gero | 4626 | (title TBD — read from file) |
 | Wilks | 4916 | (title TBD — read from file) |
 | Torres | 5140 | (title TBD — read from file) |
