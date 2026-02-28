@@ -13,7 +13,7 @@ shareable recipes — submitted by the community, expandable via GitHub Pull Req
 
 ### B
 
-- **Booten, Brooke** - [Minimal Algorithmic Editor](docs/recipes/minimal-algorithmic-editor.md)
+- **Booten, Kyle** - [Minimal Algorithmic Editor](docs/recipes/minimal-algorithmic-editor.md)
 
 ### C
 
@@ -64,7 +64,7 @@ shareable recipes — submitted by the community, expandable via GitHub Pull Req
 
 - **Salter, Anastasia** - [Choice-Constrained Twine with Harlowe 3.x](docs/recipes/choice-constrained-twine.md)
 - **Saum-Pascual, Alexandra** - [Online Survey Poems](docs/recipes/online-survey-poems.md)
-- **Skains, Lyle** - [Kids in the Kitchen](docs/recipes/kids-in-the-kitchen.md)
+- **Skains, R. Lyle** - [Kids in the Kitchen](docs/recipes/kids-in-the-kitchen.md)
 - **Soon, Winnie & Mara Karagianni** - [Queering Bash: Love Poems, as Recipes](docs/recipes/queering-bash.md)
 - **Strickland, Stephanie & Ian Hatcher** - [How to Bake a Citation Cake](docs/recipes/citation-cake.md)
 
@@ -81,7 +81,7 @@ shareable recipes — submitted by the community, expandable via GitHub Pull Req
 
 ### W
 
-- **Wang, Melanie** - [AI as Mirror](docs/recipes/ai-as-mirror.md)
+- **Wang, Carrie Sijia** - [AI as Mirror](docs/recipes/ai-as-mirror.md)
 - **Wilks, Christine** - [Poemscape](docs/recipes/poemscape.md)
 - **Wittig, Rob & Mark C. Marino** - [Pr0c3ss1ng: A Netprov Support Group for AI Assistants](docs/recipes/pr0c3ss1ng.md)
 
