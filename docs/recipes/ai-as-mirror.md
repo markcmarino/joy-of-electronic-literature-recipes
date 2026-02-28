@@ -1,7 +1,9 @@
 ---
 title: AI as Mirror Recipes for Three Digital Selves
 chef: Carrie Sijia Wang
+
 abstract: Three recipes for creating AI chatbot versions of yourself using rule-based scripting, Markov chains, and large language models.
+
 description: >
   "AI as Mirror" offers three recipes for creating chatbot versions of yourself, each
   using a different AI approach. Recipe 01 (Scripted Self) uses RiveScript keyword
@@ -24,13 +26,17 @@ description: >
   while embracing the strange and revealing possibilities of digital self-portraiture.
   These "fake yous" are not meant to replace the real you, but to explore what it means
   to be human in an AI-infused, machine-coded world.
+
 genres:
   - Human-computer collaboration
+
 difficulty_pans: 2
+
 yields: >
   Three distinct AI self-portraits: a scripted keyword-matching chatbot, a Markov chain
   text remixer, and an LLM personalized with your own writings—each revealing different
   facets of digital selfhood.
+
 github_link: https://tinyurl.com/scriptedself
 ---
 
