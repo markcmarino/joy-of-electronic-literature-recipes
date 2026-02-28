@@ -149,3 +149,104 @@ The transfer is complete. All 30 recipes from the source file have been successf
 - **GitHub:** `https://github.com/markcmarino/joy-of-electronic-literature-recipes`
 - **Validation:** runs automatically on every PR via GitHub Actions
 - **Python:** not installed locally — validation only runs on GitHub
+
+---
+
+## Current Status (February 2026)
+
+### ✅ Completed Work
+
+**Recipe Transfer & Verification:**
+- All 30 recipes successfully transferred from source file to repository
+- README table of contents created with alphabetical organization by chef last name
+- Chef names verified against source file and corrected (7 errors fixed)
+
+**YAML Frontmatter Quality Assurance:**
+- Stripped UTF-8 BOM from all recipe files
+- Normalized line endings (CRLF → LF) across all `.md`, `.yml`, `.py` files
+- Converted YAML prose fields from literal (`|`) to folded (`>`) style for better data export
+- Fixed minified YAML in `ai-as-mirror.md` (complete file rewrite)
+- Added `.gitattributes` to enforce LF line endings going forward
+- Created `validate_frontmatter.py` validation script
+- Integrated frontmatter validation into GitHub Actions CI workflow
+
+**Display & Presentation:**
+- Created `docs/stylesheets/recipes.css` for vertical metadata display
+- Updated `mkdocs.yml` to include custom CSS via `extra_css`
+- CSS-only solution preserves YAML structure for document extraction
+- Removed contributor sections from README (closing public submissions temporarily)
+
+**Validation Infrastructure:**
+- `.github/scripts/validate_frontmatter.py` - checks BOM, delimiters, line endings
+- `.github/scripts/unminify_frontmatter_simple.py` - detects and fixes minified YAML
+- `.github/workflows/validate-recipes.yml` - automated CI checks on PRs
+- `scripts/validate_recipes.py` - content validation (existing)
+
+---
+
+## Next Steps: Document Generation from YAML
+
+### Goal
+Extract YAML frontmatter from all 30 recipe files to create formatted documents (likely for Google Docs or other publication formats).
+
+### Current YAML Structure (Ready for Extraction)
+
+All recipe files have clean, well-formed YAML frontmatter with these fields:
+
+```yaml
+---
+title: Recipe Title Here
+chef: Author Name(s)
+abstract: One sentence, max 25 words
+description: >
+  Fuller description up to 250 words, using folded style.
+  Multiple paragraphs supported with blank lines.
+genres:
+  - Official Genre Name
+custom_genres:
+  - Custom Genre (optional)
+difficulty_pans: 1-4
+yields: >
+  What the reader experiences, up to 50 words.
+github_link: https://project-url.com
+---
+```
+
+### Extraction Options
+
+**Option 1: Python Script for Bulk Export**
+- Read all 30 recipe files in `docs/recipes/*.md`
+- Parse YAML frontmatter using `pyyaml` library
+- Export to CSV, JSON, or formatted text for import into Google Docs/Sheets
+- Preserves all metadata fields for batch processing
+
+**Option 2: Manual Google Docs Integration**
+- Use MkDocs metadata display on published site
+- Copy/paste from rendered pages (metadata will display vertically via CSS)
+- Import into Google Docs template with consistent formatting
+
+**Option 3: Direct Markdown → DOCX Conversion**
+- Use Pandoc to convert `.md` files to `.docx` format
+- Preserve YAML metadata as document properties or formatted header
+- Batch process all 30 recipes at once
+
+### Required Decisions
+
+Before proceeding with document generation:
+
+1. **Output Format:** What format do you need? (Google Docs, Word, PDF, CSV/database)
+2. **Metadata Display:** How should YAML fields appear in the final documents?
+3. **Body Content:** Include markdown body content or metadata only?
+4. **Template:** Do you have a specific document template/style guide to match?
+5. **Batch vs. Individual:** Generate one master document or 30 individual files?
+
+### Files Ready for Extraction
+
+All 30 recipe files have validated, clean YAML frontmatter:
+- No BOM markers
+- LF line endings only
+- Proper `---` delimiters
+- Folded style (`>`) for prose fields
+- All required fields present
+
+**Next action:** Determine output format and extraction method based on your publishing workflow.
