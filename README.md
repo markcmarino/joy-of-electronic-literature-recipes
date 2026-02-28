@@ -19,7 +19,7 @@ shareable recipes — submitted by the community via GitHub Pull Request.
 
 ### D
 
-- **Demirjian, Ani** - [Radical Atmospheres](docs/recipes/radical-atmospheres.md)
+- **Demirjian, Andrew** - [Radical Atmospheres](docs/recipes/radical-atmospheres.md)
 
 ### F
 
