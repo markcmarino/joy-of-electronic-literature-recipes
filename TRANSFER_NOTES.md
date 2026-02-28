@@ -84,7 +84,7 @@ Skip `_template.md` — it is not a recipe.
 
 ---
 
-## Completed Recipes (21 of ~25)
+## Completed Recipes (24 of ~25)
 
 | File | Chef(s) |
 |------|---------|
@@ -109,20 +109,20 @@ Skip `_template.md` — it is not a recipe.
 | `cyborg-digital-writing.md` | Flores |
 | `online-survey-poems.md` | Saum-Pascual |
 | `queering-bash.md` | Soon & Karagianni |
+| `deformances.md` | Tschofen |
+| `citation-cake.md` | Strickland & Hatcher |
+| `modest-beginnings.md` | Vilaplana |
 
 Note: "2.5 Montfort" (Cooking Computational Literature, line ~2258) is an essay/interlude,
 not a standard recipe — omitted from recipe files.
 
 ---
 
-## Remaining Recipes (pick up from line ~3951)
+## Remaining Recipes (pick up from line ~4626)
 
 | Author | Approx. line | Title (from source) |
 |--------|-------------|---------------------|
-| Tschofen | 3951 | Deformances |
-| Strickland-Hatcher | 4139 | How to Bake a Citation Cake |
-| Vilaplana | 4380 | Modest Beginnings |
-| Gero | 4626 | (title TBD — read from file) |
+| Gero | 4626 | Dis/Appearing Recipe |
 | Wilks | 4916 | (title TBD — read from file) |
 | Torres | 5140 | (title TBD — read from file) |
 | Tisselli | 5234 | (title TBD — read from file) |
