@@ -46,7 +46,7 @@ shareable recipes — submitted by the community via GitHub Pull Request.
 ### M
 
 - **McDaid, John** - [Chatting in the Funhouse](docs/recipes/chatting-in-the-funhouse.md)
-- **Memmott, Talan & Jill Rettberg** - [Gastropoetic Generator](docs/recipes/gastropoetic-generator.md)
+- **Memmott, Talan & Scott Rettberg** - [Gastropoetic Generator](docs/recipes/gastropoetic-generator.md)
 - **Morrissey, Judd** - [Jolly Apogee](docs/recipes/jolly-apogee.md)
 
 ### P
@@ -56,7 +56,7 @@ shareable recipes — submitted by the community via GitHub Pull Request.
 
 ### R
 
-- **Rhee, Young-Hae Chang Heavy Industries & Mark C. Marino** - [Literary Dish Generator](docs/recipes/literary-dish-generator.md)
+- **Rhee, Margaret & Mark C. Marino** - [Literary Dish Generator](docs/recipes/literary-dish-generator.md)
 
 ### S
 
