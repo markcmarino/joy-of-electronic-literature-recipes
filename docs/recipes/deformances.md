@@ -2,12 +2,12 @@
 title: Deformances
 chef: Monique Tschofen
 abstract: Use large language models to deform poetic texts, exposing cultural logic through experimental transformation.
-description: |
+description: >
   Deformance brings together deforming and performance, describing a practice of deliberately "mishandling" or "mistreating" texts or datasets to generate new insights and perspectives. Coined by Jerome McGann and Lisa Samuels in 1999, the concept builds on avant-garde strategies like collage, Dadaist cut-ups, and OuLiPo algorithmic experiments. This recipe proposes digital deformance as a series of experiments that feed poetic or prose language into large language models for text, image, and sound generation. Rather than accepting bog-standard AI hyperrealism, this approach dives into surprising surrealist, expressionist, and uncanny modes, treating LLMs as experimental artifacts that perform and deform cultural memory. The method invites thinking beyond representationalism—poetic text prompts fed into sound generators won't necessarily yield literal representations. This critical engagement explicitly aims to destabilize and expose AI's logics, resisting nearly every affordance: leaning into labor visibility where AI reduces it, into complexity when it simplifies, into specificity where it generalizes. The goal is experimentation as resistance, betraying and exposing cultural logic to better avoid or manage it.
 genres:
   - Generative Poetry
 difficulty_pans: 1
-yields: |
+yields: >
   Multiple experimental servings of deformed text, image, or sound that reveal hidden patterns and expose the biases embedded in AI systems.
 github_link: https://pr-if.org/doc/play-if-card/play-if-card.html
 ---

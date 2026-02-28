@@ -2,12 +2,12 @@
 title: Poemscape
 chef: Christine Wilks
 abstract: Create interactive animated poetry that responds to mouse movement through color, space, text, and motion.
-description: |
+description: >
   Landscape, cityscape, seascape, cloudscape, moonscape, soundscape, bodyscape—it's surprising how many things can be conceived as a type of '-scape.' This recipe creates a poemscape where the screen becomes a dynamic space for readers to explore, discovering words, color, animation, and the significance of spatial orientation. The poemscape is also a moodscape employing conceptual metaphors—understanding one domain of experience (typically abstract) in terms of another (typically concrete). Think "a cold personality," "exploding with anger," "a beacon of hope." The key ingredient is interactivity, functioning as the stirrer mixing other ingredients. Code adds an event listener monitoring pointer/mouse movements along horizontal and vertical axes, controlling displayed text, colors, and animation to create multimodal expressivity. Vertical movement can convey spatial orientational metaphors like "HAPPY IS UP; SAD IS DOWN" or "CONSCIOUS IS UP; UNCONSCIOUS IS DOWN." While color's emotional effects aren't predictable, brighter saturated colors tend to be more pleasurable than darker desaturated ones—colloquially supported by phrases like "bright and cheerful" or "dark and dreary." This recipe plays with these associations to create a dynamic value-laden or affect-laden poemscape.
 genres:
   - Generative Poetry
 difficulty_pans: 2
-yields: |
+yields: >
   An interactive poemscape where one animated word displays at a time, changing based on pointer position, with color and motion responding to user movement.
 github_link: https://codepen.io/crissxross/full/QwNbJbM
 ---

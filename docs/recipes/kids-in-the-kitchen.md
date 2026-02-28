@@ -3,7 +3,7 @@ title: Kids in the Kitchen
 chef: R. Lyle Skains
 abstract: A Twine story prompter that generates starter dough for interactive digital
   narratives, scaffolding new designers from story idea to first branching passage.
-description: |
+description: >
   Kids in the Kitchen introduces the YCO2 Story Prompter, a Twine-built tool
   that generates a starter passage for interactive digital narratives (IDN),
   helping new narrative designers bridge the gap between consumer and creator.
@@ -30,7 +30,7 @@ custom_genres:
   - Interactive Digital Narrative
   - Climate fiction
 difficulty_pans: 2
-yields: |
+yields: >
   A starter Twine passage ready to copy and paste into a new Twine work, with
   branching links for students to develop further through research, critical
   thinking, and digital writing — a starter dough requiring subsequent mixing,

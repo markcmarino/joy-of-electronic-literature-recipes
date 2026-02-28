@@ -3,7 +3,7 @@ title: Radical Atmospheres
 chef: Andrew Demirjian
 abstract: A workflow for reorganizing archival source texts using regular expressions
   and NLP to generate poetic material for audio augmented reality experiences.
-description: |
+description: >
   Radical Atmospheres is a recipe for creating audio augmented reality (AAR)
   poetry from archival source texts, developed in connection with Demirjian's
   work on The Young Lords in East Harlem. Rather than producing a finished piece,
@@ -32,7 +32,7 @@ custom_genres:
   - Audio AR
   - Archival poetics
 difficulty_pans: 1
-yields: |
+yields: >
   A set of poetically reorganized text excerpts from a source document, ready
   for recording as audio and deploying in a physical location or virtual
   equivalent using audio augmented reality applications.

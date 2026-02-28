@@ -2,12 +2,12 @@
 title: Queering Bash Love Poems as Recipes
 chef: Winnie Soon and Mara Karagianni
 abstract: Create electronic poetry using Bash terminal commands that transform code into love letters and feelings.
-description: |
+description: >
   Bash, created in 1989 as the "Bourne Again Shell," is typically used by system administrators for automating tasks, navigating filesystems, and managing servers. But this queer Bash kitchen embraces the poetics of code, exploring how computation can be a site of vulnerability, ambivalence, and creative subversion rather than just efficiency. As tech oligopolies like Amazon Web Services shift administration toward proprietary dashboards and vendor-locked environments, working directly with terminal-based Bash becomes an act of reclaiming hands-on craft. This recipe guides you through creating "Infinite Missing," a simple yet profound love poem where longing builds with each loop—"I miss you so so so much"—growing infinitely through terminal commands. By replacing standard logic terms like "true" with queer variables like "love," the code becomes confession, syntax becomes poetry, and repetition becomes rhythm. The approach draws on principles of elegance, fusion, diversity, fuzziness, separation, and presence to write code that shimmers, meant not just to run but to feel.
 genres:
   - Generative Poetry
 difficulty_pans: 1
-yields: |
+yields: >
   A terminal-based love poem that loops infinitely, each iteration adding layers of longing through expanding text visible in your command line.
 github_link: https://git.systerserver.net/systerserver/queering-bash
 ---

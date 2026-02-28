@@ -2,7 +2,7 @@
 title: Choice-Constrained Twine with Harlowe 3.x
 chef: Anastasia Salter
 abstract: An introduction to variables and conditional statements in Twine's Harlowe format, modeled on the landmark work Depression Quest.
-description: |
+description: >
   "Choice-Constrained Twine with Harlowe 3.x" teaches two concepts critical to both
   programming and electronic literature: variables and conditional statements. Using
   Twine's Harlowe 3.x story format, Anastasia Salter walks through building a system
@@ -26,7 +26,7 @@ description: |
 genres:
   - Hypertext
 difficulty_pans: 1
-yields: |
+yields: >
   A Twine story with stat-tracking variables, a persistent header display, and
   conditional choice gates that unlock or restrict narrative paths based on the
   player's accumulated decisions.

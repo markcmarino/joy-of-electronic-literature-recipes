@@ -2,12 +2,12 @@
 title: A Cyborg Digital Writing Primer
 chef: Leonardo Flores
 abstract: Learn to create digital writing by hacking existing works or using AI to generate frameworks.
-description: |
+description: >
   Cyborg digital writing describes how human authors and their writing have become enmeshed with digital technologies, from spell checkers to generative AI. This primer offers two accessible approaches to producing digital literary works using HTML, CSS, and JavaScript. The first method involves hacking existing standalone digital works by downloading their source code, opening it in a text editor, and modifying the datasets and styling to create something new. The second method harnesses AI systems like ChatGPT or Claude to generate code frameworks based on natural language prompts, which can then be customized with your own content. Both approaches lower the barrier to creating generative, interactive, kinetic digital writing that goes beyond the limitations of the page. The primer emphasizes understanding the code you're working with, debugging techniques, proper attribution, and iterative development. Whether repurposing Nick Montfort's "Taroko Gorge" or prompting an AI to create a word-clicking interface, these methods invite writers to explore digital media's potential without requiring extensive programming expertise.
 genres:
   - Generative Poetry
 difficulty_pans: 1
-yields: |
+yields: >
   HTML-based digital writing works that can be interactive, generative, or kinetic, ranging from simple word sequences to complex textual systems.
 github_link: https://iloveepoetry.org/creative/sequence.html
 ---

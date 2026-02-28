@@ -1,0 +1,9 @@
+# Enforce LF line endings for all Markdown files
+*.md text eol=lf
+
+# Enforce LF for YAML files
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Enforce LF for Python scripts
+*.py text eol=lf

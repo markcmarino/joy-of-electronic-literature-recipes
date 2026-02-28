@@ -3,7 +3,7 @@ title: Interactive Lyric Videos with Stepworks
 chef: Erik Loyer
 abstract: Two recipes for creating syllable-accurate lyric videos performable live
   using Stepworks and Google Sheets, for single and multiple vocalists.
-description: |
+description: >
   Interactive Lyric Videos with Stepworks offers two recipes for creating lyric
   videos that can be performed live — syllable by syllable, one keypress at a
   time — turning language into a kind of drum.
@@ -31,7 +31,7 @@ custom_genres:
   - Lyric video
   - Typographic animation
 difficulty_pans: 2
-yields: |
+yields: >
   One or two interactive lyric videos performable live in time with music,
   syllable by syllable, using a spreadsheet score and the Stepworks tool as a
   rhythmic text instrument.

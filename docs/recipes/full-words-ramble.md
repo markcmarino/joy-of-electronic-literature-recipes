@@ -3,7 +3,7 @@ title: Full Words Ramble
 chef: Daniel C. Howe, John Cayley
 abstract: A browser text that continuously replaces its own words with rhymes and
   sound-alikes, rambling away from source prose before wandering back again.
-description: |
+description: >
   Full Words Ramble is a word-replacement poetry system built with the RiTa
   natural language processing library. The piece takes a prose text and,
   word by word, substitutes each word with a phonetically or orthographically
@@ -30,7 +30,7 @@ genres:
   - Word Manipulation
   - Generative Poetry
 difficulty_pans: 2
-yields: |
+yields: >
   A continuously evolving browser text that wanders from its source prose through
   word-by-word phonetic and orthographic substitution, then wanders back, readable
   live and shareable as an Observable notebook.

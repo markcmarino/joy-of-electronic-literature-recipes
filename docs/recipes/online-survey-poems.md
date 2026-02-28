@@ -2,14 +2,14 @@
 title: Online Survey Poems
 chef: Alexandra Saum-Pascual
 abstract: Repurpose corporate survey platforms like Google Forms to create interactive poetry and narrative prose.
-description: |
+description: >
   Not all great meals are cooked from scratch—sometimes creative seasoning transforms store-bought ingredients into something remarkable. This recipe teaches how to turn tedious online surveys into literary works that repurpose user interactivity to create new poetic or narrative experiences. By hacking familiar corporate tools like Google Forms, Survey Monkey, or Qualtrics, writers can create multiple-choice poetry that critiques the very platforms it uses. The approach treats survey elements—questions, answer options, sections, and text fields—as poetic tools, reframing data-gathering instruments as literary media. Works like Porpentine's "All Your Time-Tossed Selves" demonstrate how multiple-choice selections can determine narrative paths, while highlighting the circular nature of choice within constrained systems. This method embraces the contradictions of using corporate surveillance technology for artistic intervention, exposing hidden functionalities and the limits of user agency. The resulting works blend high and low culture, combining readymade conceptual art with accessible web platforms to demystify ubiquitous computing and digital surveillance.
 genres:
   - Hypertext
 custom_genres:
   - Multiple Choice Poetry
 difficulty_pans: 1
-yields: |
+yields: >
   An interactive survey-poem where readers navigate through multiple-choice questions, text fields, and sections that function as verses, stanzas, and narrative paths.
 github_link: https://docs.google.com/forms/d/e/1FAIpQLSfZ4C9Q4i_KCwuDei2kK1SV7GyVQrWYozEavjbi-xpCqv55OA/viewform
 ---

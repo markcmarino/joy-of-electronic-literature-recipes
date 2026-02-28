@@ -2,7 +2,7 @@
 title: Jolly Apogee A Minimal Embodied Gesture Poem
 chef: Judd Morrissey
 abstract: A smartphone gesture poem activated by bodily movement, drawn from a large-scale performance merging embodied poetics and queer archive.
-description: |
+description: >
   "Jolly Apogee" is a minimal embodied gesture poem developed from the closing text of
   ATOM-r's large-scale performance The Operature, a work exploring the archive of Samuel
   Steward—Chicago writer, tattoo artist, and friend of Gertrude Stein—alongside the
@@ -28,7 +28,7 @@ genres:
   - Performance/Experience
   - Word Manipulation
 difficulty_pans: 3
-yields: |
+yields: >
   A remixable p5.js gesture poem performed with a smartphone, where bodily movement
   through space triggers lines of text—suitable for solo performance, workshop
   facilitation, or collaborative literary event.

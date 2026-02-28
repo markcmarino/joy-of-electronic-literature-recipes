@@ -2,7 +2,7 @@
 title: À la recherche du lieu perdu
 chef: Chris Klimas
 abstract: A Twine recipe for recreating a place from memory as an explorable hypertext space, without plot or character decisions—just space.
-description: |
+description: >
   "À la recherche du lieu perdu" is a recipe from Chris Klimas, creator of Twine, for
   building a setting inside Twine rather than a branching narrative. There are no plot
   decisions, no characters in the foreground—just the exploration of a place that can
@@ -27,7 +27,7 @@ description: |
 genres:
   - Hypertext
 difficulty_pans: 1
-yields: |
+yields: >
   A Twine story that recreates a remembered place as a linked map of passages, inviting
   visitors to wander, examine details, and experience memory as an explorable, sensory
   hypertext space.

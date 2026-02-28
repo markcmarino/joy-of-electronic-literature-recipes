@@ -3,7 +3,7 @@ title: Literary Dish Generator
 chef: Margaret Rhee, Mark C. Marino
 abstract: A beginner-friendly HTML generator that randomly combines word lists
   to produce literary dish names, teaching core mechanics of generative poetry.
-description: |
+description: >
   A starter recipe for text generation and generative poetry, tracing a lineage
   from Christopher Strachey's 1952 Love Letter Generator through Surrealism,
   Dada, and Oulipo to contemporary electronic literature.
@@ -29,7 +29,7 @@ custom_genres:
   - Text Generator
   - Bot
 difficulty_pans: 1
-yields: |
+yields: >
   A working browser-based text generator that produces unique literary dish
   names each time it runs. Readers gain a reusable template for building their
   own generative poetry tools from customizable word arrays, with no framework

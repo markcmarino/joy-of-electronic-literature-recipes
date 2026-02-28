@@ -3,7 +3,7 @@ title: Unleashing Your Linking Powers
 chef: Deena Larsen
 abstract: An exploration of the meanings links carry in hypertext, with three
   recipes for creating poster-based and electronic linked narratives.
-description: |
+description: >
   Unleashing Your Linking Powers is a set of three recipes for understanding and
   building hypertext through the power of its links. Links are more than conduits
   between nodes — they create meaning themselves. Where the author puts a link
@@ -29,7 +29,7 @@ custom_genres:
   - Node and link
   - Linking practice
 difficulty_pans: 1
-yields: |
+yields: >
   A paper or electronic hypertext in which links carry denotative, connotative,
   emotional, and narrative meaning, built through poster exercises that develop
   linking intuition transferable to digital tools like Twine.

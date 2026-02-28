@@ -2,12 +2,12 @@
 title: Soul Stew Digital Poetry with Camões and Dinamene
 chef: Rui Torres
 abstract: Classroom recipe for teaching combinatorial digital poetry using classic Portuguese sonnets and their remixes.
-description: |
+description: >
   Welcome to the kitchen of poetic afterlives! In "Dialogues between Camões and Dinamene," digital chef Rui Torres takes one classic sonnet from Luís de Camões ("Alma minha gentil, que te partiste" / "Dear gentle soul, you that departed") and throws it into a metaphysical blender with a bold remix by Manuel Portela, who writes from the perspective of the ghostly beloved, Dinamene ("Alma minha gentil, que te quebraste" / "Dear gentle soul, you that were broken"). What comes out? Not ghost soup, but a buffet of poetic variations—infinitely remixable sonnets where every word is a modular flavor. Using combinatorics (high-tech literary Tupperware), the work mixes and matches lines and words, cooking up new sonnets each time you click. There are technically endless combinations, but users get 250 of each flavor per session, like a prix-fixe menu of poetic experimentation. These remix dishes retain Camões' Renaissance essence (love, loss, transcendence, heaven/earth dualities), while Portela's contrasonnet subverts it with role reversals, perspective flips, and existential spiciness. Students taste the sonnets, remix their own, and select favorites to publish in a printed anthology celebrating Camões' 500th birthday. Dead poets talk back, remix culture meets literary canon, and students help write the final cookbook.
 genres:
   - Generative Poetry
 difficulty_pans: 1
-yields: |
+yields: >
   Two class periods of engagement with classic sonnets, student-generated remixes, selected variations for publication, and deeper understanding of combinatorial poetry.
 github_link: https://telepoesis.net/camoes_500
 ---

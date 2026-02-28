@@ -2,7 +2,7 @@
 title: Gastropoetic Generator
 chef: Talan Memmott, Scott Rettberg
 abstract: A limerick-form poetry generator that produces menus for real in-person feasts, blending constraint-based poetics with culinary performance.
-description: |
+description: >
   "Gastropoetic Generator" arises from Talan Memmott and Scott Rettberg's collaborative
   projects The Limerick Diet (2019) and Quarantine Quatrains (2020), in which
   constraint-based poetry generation produced not only aesthetically pleasing verse but
@@ -28,7 +28,7 @@ genres:
   - Generative Poetry
   - Performance/Experience
 difficulty_pans: 2
-yields: |
+yields: >
   A working JavaScript limerick generator that outputs a randomized menu serving 1–8
   diners, suitable for live cooking performances, distributed feasts, or classroom
   demonstrations of constraint-based poetics.

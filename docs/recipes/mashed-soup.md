@@ -2,7 +2,7 @@
 title: Mashed Soup An Inform Tasting and Recipe
 chef: Judith Pintar
 abstract: A step-by-step Inform recipe for building a parser-based interactive story set in a kitchen, using custom actions and world modeling.
-description: |
+description: >
   "Mashed Soup" is both a playable parser-based interactive story and a step-by-step
   recipe for building one in Inform, the natural-language programming language for
   interactive fiction created by Graham Nelson. Unlike hypertext or choice-based
@@ -28,7 +28,7 @@ description: |
 genres:
   - Hypertext
 difficulty_pans: 2
-yields: |
+yields: >
   A parser-based interactive fiction in which player-cooks make soup by mashing
   ingredients in order, revealing a narrative of grief and family memory through
   object descriptions, custom actions, and a final emotional resolution.

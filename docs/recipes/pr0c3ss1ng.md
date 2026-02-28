@@ -2,7 +2,7 @@
 title: Pr0c3ss1ng - A Netprov Support Group for AI Assistants
 chef: Rob Wittig and Mark C. Marino
 abstract: Collaborative writing game where players become personal assistants to temperamental AI programs seeking emotional support.
-description: |
+description: >
   What if artificial intelligence programs—the famous ones—needed personal assistants to cater to their whims, regulate their emotions, and endure their tantrums? What if this was your job... you poor thing? Well, you're not alone! This netprov (networked improvised literature) game invites players to form a support community sharing imaginative stories (harrowing and hilarious), sympathy, and advice about the thankless job of working for AI programs. Players pick a platform, invite friends, and create a fictional support group for the secret human helpers who give artificial intelligence programs the courage to face the day—the ones who hear Siri's and Alexa's tearful doubts, help ChatGPT work through imposter syndrome, and console Google Search as parent company love goes to the new Bard system. Not to mention the worries and resentments of legacy programs like Autocorrect and Maps who feel eclipsed by flashy newcomers. Through comedy, players make discoveries about what they think and feel about these secretive, pervasive systems. Developed in 2025 but 1,700 years ago in AI years, players should replace specific brand names with current AI superstars.
 genres:
   - Hypertext
@@ -10,7 +10,7 @@ custom_genres:
   - Netprov
   - Collaborative Writing
 difficulty_pans: 1
-yields: |
+yields: >
   A collaborative fiction exploring AI systems through comedy, shared on any networked writing platform with 2+ participants.
 github_link: https://markcmarino.com/tempspence/
 ---

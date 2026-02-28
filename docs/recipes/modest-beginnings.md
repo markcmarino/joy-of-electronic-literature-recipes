@@ -2,12 +2,12 @@
 title: Modest Beginnings
 chef: Milagros Vilaplana
 abstract: Create animated kinetic poetry using Microsoft PowerPoint's Morph and Animation features for mixed media verse.
-description: |
+description: >
   For writers and poets who want to experiment with mixed media poetry but have limited technology skills, or for technologists unfamiliar with kinetic concept art poetry, Microsoft PowerPoint offers an easy way to explore new possibilities. Although artists like David Byrne and poet Brent Ameneyro have demonstrated PowerPoint's poetic potential, its use as an artistic platform remains uncommon—perhaps due to resistance against breaking the business-corporate paradigm of Microsoft tools, or because defunct Adobe Flash set impossible standards. This recipe invites you to have fun creating post-modernist concept or concrete poetry on an electronic screen. The approach uses PowerPoint's Morph function to create smooth transitions between slides, animation effects to make letters and words move kinetically, and combinations of text, images, sound, and visual effects. The primordial requirement remains unchanged from traditional poetry: using aesthetic and rhythmic qualities of language and visual elements to evoke meanings, emotions, thoughts, and ideas in creative, often figurative ways. The cyborg approach treats technology as partner, following an inductive process that starts small, emphasizes discovery, and leaves work open to dilemma and self-questioning.
 genres:
   - Generative Poetry
 difficulty_pans: 2
-yields: |
+yields: >
   Animated poetry presentations that combine text, images, and sound, with kinetic effects that transform words into moving visual elements on screen.
 github_link: https://youtu.be/IocvcQZVbfY
 ---

@@ -2,7 +2,7 @@
 title: Degenerative
 chef: Eugenio Tisselli
 abstract: Create a web page that degenerates with each visit through PHP-driven character deletion and replacement.
-description: |
+description: >
   Every time someone visits this page, one character that makes up the HTML code gets either deleted or replaced, causing step-by-step degeneration of both content and structure. Programmed and launched in 2005, this de-generative language art piece was created as a counterpoint to the then-popular generative art movement. Inspired by Gustav Metzger's Auto-Destructive Art Manifesto (1959), which encouraged using perishable or unstable materials that degrade naturally or through human intervention, degenerative parodies what Metzger saw as industrial societies' "obsession with destruction." The work aesthetically demonstrates the power of societies to "accelerate disintegrative processes." Beyond its raw nihilism, degenerative has provoked interesting critical thoughts. Justin Berner found it confronts readers with technical obsolescence, critiquing unopposed instrumentality in fields like digital humanities and technosolutionism. Because degenerative reveals underlying code through a subtractive process triggered by readers, the irreversible descent into textual formlessness foregrounds material effects of collective action on a medium that conceals materiality through seemingly immaterial interfaces. The work reminds us of the fragility of our collective online spaces.
 genres:
   - Generative Poetry
@@ -10,7 +10,7 @@ custom_genres:
   - Code Art
   - Web Page Deformation
 difficulty_pans: 2
-yields: |
+yields: >
   A web page that slowly degenerates into unreadability through collective visitor interaction, revealing code and structure progressively.
 github_link: http://motorhueso.net/degenerative
 ---

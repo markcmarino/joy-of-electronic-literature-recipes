@@ -18,5 +18,8 @@ jobs:
       - name: Install dependencies
         run: pip install pyyaml
 
+      - name: Validate front matter format
+        run: python .github/scripts/validate_frontmatter.py
+
       - name: Validate recipe files
         run: python scripts/validate_recipes.py

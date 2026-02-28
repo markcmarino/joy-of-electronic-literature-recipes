@@ -2,12 +2,12 @@
 title: How to Bake a Citation Cake
 chef: Stephanie Strickland and Ian Hatcher
 abstract: Create randomly recombinant text from curated citations using HTML and JavaScript to explore information quality.
-description: |
+description: >
   In an age when shelves groan beneath the weight of tasteless and mislabeled information, what purpose might randomly recombinant text serve? Creating a Citation Cake, of course—one that allows inquiry into and taste-testing of its ingredients. This recipe teaches how to gather one-line citations (text quotes and/or images, fresh or stale, perennially useful or even poisonous) and combine them using a simple HTML/CSS/JavaScript mixer-oven. The key is curation: ingredients must intrigue separately and blend properly, though a math equation won't always work well with a favorite novel's last line. Citations should taste good on their own and play well with others, yet revealing their sources may change their flavor significantly. The JavaScript code functions as both mixer and oven, randomly shuffling citations from two bowls (labeled "better" and "worse" to prompt thinking about ingredient quality) and displaying a specified number of layers. Users can toggle attribution visibility to see how context affects perception. This approach, demonstrated in collaborative digital poems like "House of Trust" and "Liberty Ring!," treats citations as raw materials for play, transforming static text into dynamic performative events that question the nature and provenance of information itself.
 genres:
   - Generative Poetry
 difficulty_pans: 1
-yields: |
+yields: >
   A rich confection of randomly combined citations that can be rebaked infinitely, revealing new juxtapositions with each iteration.
 github_link: https://stephaniestrickland.com/projects/liberty-ring
 ---

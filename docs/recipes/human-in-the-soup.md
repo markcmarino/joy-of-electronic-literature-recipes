@@ -3,7 +3,7 @@ title: Human in the Soup
 chef: Andrew Klobucar
 abstract: Six electronically generated poems using PoemChef, exploring generative
   writing systems while keeping the human element central to the creative process.
-description: |
+description: >
   Human in the Soup is a ready-to-read performance of six electronically generated
   poems — a "discourse plate" — produced using PoemChef, a poetry generator app
   that allows writers to produce poems in select genres by choosing themes and
@@ -32,7 +32,7 @@ custom_genres:
   - Discourse plate
   - Algorithmic poetry
 difficulty_pans: 2
-yields: |
+yields: >
   Six poems in different genres generated collaboratively with PoemChef,
   performable as a literary tasting plate for an open reading, with the human
   poet retaining authorial control over theme, literary device, and final lines.

@@ -2,7 +2,7 @@
 title: Chatting in the Funhouse
 chef: John McDaid
 abstract: Build a no-code GPT chatbot tuned to a literary corpus that generates dialogue in a fictional author's voice.
-description: |
+description: >
   "Chatting in the Funhouse" is a recipe for building a no-code GPT-based narrative
   collaborator tuned to the literary corpus of John McDaid's hypermedia fiction Uncle
   Buddy's Phantom Funhouse (1993). Using ChatGPT's custom GPT feature, the author
@@ -26,7 +26,7 @@ description: |
 genres:
   - Human-computer collaboration
 difficulty_pans: 2
-yields: |
+yields: >
   A custom ChatGPT model that embodies a fictional author's voice, enabling literary
   exploration, classroom engagement, or generative narrative performance with a curated
   LLM dialogue generator.

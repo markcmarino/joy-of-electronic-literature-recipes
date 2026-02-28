@@ -2,12 +2,12 @@
 title: Dis/Appearing Recipe
 chef: Katy Ilonka Gero
 abstract: Create erasure poetry that computationally removes or transforms words to reveal new meanings within existing texts.
-description: |
+description: >
   Within each text lurks many more. Erasure poetry removes certain words from existing texts to create new texts with what remains. From Doris Cross's reworked dictionary pages in the 1960s-70s to Jen Bervin's "Nets" (creating poems from Shakespeare's sonnets) and Tracy K. Smith's "Declaration" (derived from the American Declaration of Independence), erasure has a solid footing in literature. How you erase affects aesthetics—striking out with pen, obscuring with marker, painting/collaging over words, physically cutting them out, or simply removing them and retyping. Computation affords new approaches: algorithmic selection of words to remove, animated removal in particular ways, or even running erasure backwards by letting words reappear over time. This recipe creates HTML/JavaScript tools that slowly disappear words, allowing a single text to be experienced in many different ways. The author's interest began with using erasure to help revise poems, pausing at interesting serendipitous moments. It's hard to see familiar texts anew, but erasure gives us new eyes. The recipe includes variations for blackout poetry, appearing poems (reverse erasure), and text transformation (replacing words rather than removing them).
 genres:
   - Generative Poetry
 difficulty_pans: 2
-yields: |
+yields: >
   An HTML page where text slowly erases word by word, creating endless moments of serendipitous poetry along the way.
 github_link: https://www.katygero.com/dis-appear/
 ---

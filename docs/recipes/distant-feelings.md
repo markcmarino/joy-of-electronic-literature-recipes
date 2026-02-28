@@ -3,7 +3,7 @@ title: Distant Feeling(s)
 chef: Annie Abrahams
 abstract: A silent telematic ritual in which participants close their eyes over
   videoconference for fifteen minutes, exploring presence and togetherness across distance.
-description: |
+description: >
   Distant Feeling(s) is a telematic performance and recurring ritual co-founded
   by Annie Abrahams and Daniel Pinheiro in 2015, growing from an earlier work
   called Placelessness by Daniel Pinheiro, Lisa Parra, and others. Participants
@@ -34,7 +34,7 @@ custom_genres:
   - Telematic art
   - Mindfulness practice
 difficulty_pans: 1
-yields: |
+yields: >
   A shared recording of silent online co-presence, available to all participants
   afterward, along with heightened awareness of bodily presence, connection, and
   the sounds of disparate home environments merging across the network.
