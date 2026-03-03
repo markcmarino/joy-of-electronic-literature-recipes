@@ -1,16 +1,12 @@
 ---
 title: AI as Mirror Recipes for Three Digital Selves
 chef: Carrie Sijia Wang
-
 abstract: Three recipes for creating AI chatbot versions of yourself using rule-based scripting, Markov chains, and large language models.
-
-description: > [Please, write 250 words or less]
-
+description: > 
+     [Please, write 250 words or less]
 genres:
   - Human-computer collaboration
-
 difficulty_pans: 2
-
 yields: >
   Three distinct AI self-portraits: a scripted keyword-matching chatbot, a Markov chain
   text remixer, and an LLM personalized with your own writings—each revealing different
