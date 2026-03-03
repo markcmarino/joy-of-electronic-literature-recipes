@@ -24,7 +24,7 @@ Erik Loyer
 
 Media Artist, Creative Technologist
 
-Recipe 1: 
+##Recipe 1: 
 
 **Class of E-lit:** Interactive lyric video   
 **Dish:** A syllable-accurate lyric video you can perform live   
@@ -33,7 +33,7 @@ Recipe 1:
 **Number of servings and serving size:** One lyric video  
 **Rating:** **🍳 one pan, easy** 
 
-**Recipe 2:** 
+## **Recipe 2:** 
 
 **Class of E-lit:** Interactive lyric video  
 **Dish:** A syllable-accurate lyric video for multiple vocalists that you can perform live  
@@ -42,12 +42,10 @@ Recipe 1:
 **Number of servings and serving size:** One lyric video  
 **Rating:** **🍳🍳 two pans, moderate** 
 
-**Background**
+## **Background**
 
 Have you ever watched a lyric video on YouTube, where the words to a song appear on screen in time with the music? Even before the term “lyric video” came into use, I found there to be something magical about this format. I think it’s because words can have such surprising, sudden effects on us — as much as any tangible object — and yet, they have no physical presence when spoken or sung. Whether they emerge from the organic vibrations of a cartilaginous larynx, or from the mechanical movements of an electrodynamic diaphragm, the unique sounds our brains transduce into meaning do not literally hang in the air as visible language. The lyric video, however, appeals to the part of us that wants them to, inviting us into an illusion that the singer’s voice is conjuring visible language in real time.
 
-
-![][image1]
 
 *Still from an unofficial multi-channel lyric video for “One Day More” from* Les Miserables*, created with Stepworks.*
 
@@ -59,7 +57,7 @@ Over the years, as I became increasingly interested in rhythmic performance and 
 
 One template that became especially popular was called “Vocal Grid,” because it assigned each speaker (i.e. each column in the spreadsheet) a portion of the screen where their words would be displayed, making it possible to animate complex sequences featuring multiple singers or speakers with minimal effort. Given the popularity of the musical “Hamilton” at the time, with its dense, multi- character vocal performances, making lyric videos for various songs from the production was a natural next step, and proved an immediate hit. Lyric videos for “Alexander Hamilton” and “Non-Stop” received millions of views from fans of the musical, who reported clearer understanding of Lin-Manuel Miranda’s elaborate wordplay from the format. Some of those fans ended up using Stepworks to create their own lyric videos for many other songs from the musical\!  
 
-**About Stepworks**
+## **About Stepworks**
 
 Stepworks ([https://step.works](https://step.works)) is a website that lets you create lyric videos (and many other kinds of rhythm-driven experiences) for free. Currently the website contains two versions of the Stepworks authoring tool: one called Stepworks Classic that’s based on Google Sheets, and another called Stepworks Studio that’s more of a standalone app. We’ll be using the first version, Stepworks Classic. You can find it by opening the Stepworks website and scrolling down until you find the Stepworks Classic link. Stepworks Classic allows you to use a Google Sheets spreadsheet as a “score” to choreograph the display of text on the screen. When the score is performed, each mouse click or key press will advance one row in the score, allowing you to perform it live, in your own timing, like a musical instrument that plays text instead of notes (it can actually play notes too, but that’s beyond the scope of these recipes — you can learn how in the “Create” section of the Stepworks Classic website\!) 
 
