@@ -54,7 +54,6 @@ shareable recipes — submitted by the community, expandable via GitHub Pull Req
 
 ### P
 
-- **Parrish, Allison** - [Labeling](docs/recipes/labeling.md)
 - **Pintar, Judith** - [Mashed Soup](docs/recipes/mashed-soup.md)
 
 ### R
