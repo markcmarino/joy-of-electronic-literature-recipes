@@ -15,178 +15,126 @@ yields: >
 github_link: http://motorhueso.net/degenerative
 ---
 
-## Ingredients
+# ***Degenerative*****: a web page that degenerates with each visit**
 
-- A plain text editor (such as Leafpad on Linux, or any text editor)
-- Access to a remote or local web server with PHP support
-- Basic understanding of HTML and PHP
+**Eugenio Tisselli**  
+**Class of E-lit: code art, web page deformation**  
+**Dish:**  Degenerative web page  
+**Required ingredients:** \- A plain text editor, Access to a remote or local web server with PHP support.  
+**Preparation and cooking time:**  1-2 hours
 
-## Method
+**Number of servings and serving size: 1**
 
-### Understanding the Concept
+**Rating: 🍳🍳**
 
-When readers open the degenerative web page, a PHP script:
-1. Reads an HTML file (A)
-2. Destroys a fragment of A by replacing or deleting one character
-3. Saves the altered content
-4. Displays the result to the reader
+**From the Chef:** 
 
-All of this happens on the web server. The destruction is cumulative—each visit degrades the page further.
+Background  
+*“Every time someone visits this page, one of the characters that make up the HTML code gets either deleted or replaced. This causes a step-by-step degeneration, not only of the page's content, but also of its structure.”*
 
-### Understanding PHP and Servers
+These words could originally be read at the top of the *degenerative* web page, a piece I programmed and launched in 2005[^1]. At that time, generative art had become quite popular, so coding a *de-generative* *language art* piece was my way of going against the grain, as I usually do. I was inspired by the work of artists who sought aesthetic pleasure in destruction, such as Gustav Metzger. In 1959, Metzger published his *Auto-Destructive Art Manifesto*, encouraging artists to use perishable or unstable materials that would degrade naturally or through human intervention. Through the progressive or immediate degradation of the artwork, his purpose was to parody what he saw as industrial societies’ “obsession with destruction.” Auto-destructive art was considered by Metzger as a “form of public art for industrial societies” that aesthetically demonstrated the power of those societies to “accelerate disintegrative processes” (Metzger 1959). Pete Townshend, co-founder and guitarist of the British band The Who, was one of Metzger’s most famous students at the Ealing Art College in London. As you might recall, he mirrored his teacher’s lessons by enthusiastically bashing his guitar at the end of the shows.
 
-**Servers:** Computers that fulfill users' internet requests. In the ancient World Wide Web, servers delivered mostly static HTML pages. As demands for personalized content increased, dynamic web pages emerged.
+The post-industrial, digital *codeworld* compressed into my *degenerative* piece echoes and updates Metzger’s views and Townshend’s onstage praxis. However, beyond its raw nihilism, *degenerative* has provoked a number of interesting thoughts. Justin Berner, for instance, found that the piece confronts readers with technical obsolescence, and thus critiques the unopposed instrumentality prevalent in fields such as digital humanities, as well as in now widespread views such as *technosolutionism*. Because *degenerative* reveals its underlying code through a subtractive process triggered by its readers, Berner argues that the irreversible descent into textual formlessness foregrounds the material effects of collective action (whether conscious or not) on a medium that conceals its materiality through seemingly immaterial interfaces and proprietary black boxes (Berner 2020). Considering the precariousness and volatility of natural language that become apparent in *degenerative*, Diego Zorita Arroyo proposed that stretching fragility to a breaking point ultimately resulted in the obstruction of the formal task of language. According to Zorita Arroyo, natural language, upon losing its semantic function, reveals itself purely as a “material surface of inscription” devoid of meaning, not unlike unmodeled clay, or, better yet, like a sculpture that disfigures itself into nothingness (Arroyo 2022). Indeed, the original text of the *degenerative* web page, that is, the text that could be read before its collectively triggered defacement, also featured the following passage:
 
-**PHP (Hypertext Pre-Processor):** A language that carries out server-side data processing. Yes, many programmers avoid PHP—it feels patchy, like it was designed by a gang of crazy monkeys, each with its own idea of how the language should look. But PHP has been around for 30 years, and it's perfect for degenerative!
+*“One day, all this text will be unreadable. This will happen slowly or quickly, depending on how this page is visited. It will not be a natural decomposition: it will be the effect of code that lies within. Like an unstoppable disease, this code will eventually render the page sick and crippled.”*
 
-### Creating the Degenerative Code
+In this recipe, I will show you how *degenerative* does its destructive thing. It’s actually quite simple, but if you want to set your own version of the piece in motion, you’ll have to make sure you have the proper technical elements and settings in place. Here’s what you will need:
 
-The code is divided into two files:
-- **File A:** The original HTML code and text of the degenerative web page
-- **File B:** The PHP code that executes the degeneration
+**Ingredients:**
 
-### Step 1: Create File A (The HTML Content)
+\- A plain text editor.  
+\- Access to a remote or local web server with PHP support.
 
-Open a simple text editor and type this example:
+**Directions:**  
+You will need the editor to write the code of *degenerative*, and the server with PHP support to execute it. Before we start, let’s consider servers and the PHP programming language for a moment. As you surely know, servers are computers that fulfill users’ internet requests. In the ancient World Wide Web, servers delivered mostly static hypertext pages encoded in a standard markup language called HTML. However, as the demands for personalized and context-sensitive content increased, the web became populated by dynamic web pages that contained data that was tailored according to specific requirements before being delivered to the user. PHP, or *Hypertext Pre-Processor*, is a language that carries out such kind of server-side data processing. And yes, it’s true that a considerable number of programmers prefer to avoid PHP. It does feel a little patchy, like it was designed by a gang of crazy monkeys, each with its own idea of how the language should look like. But hey, PHP has been around for 30 years, and I think it’s just perfect for *degenerative*\!
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-<title>degenerative</title>
-</head>
-<body bgcolor="#000000" text="#999999">
-<p align="center"><strong><font size="5" face="Arial, Helvetica, sans-serif">Your text here</font></strong></p>
-</body>
-</html>
-```
+Let’s now dive into the fun part. The *degenerative* code is divided into two parts, each one in a separate file:
 
-Save the file as `A.txt`. File A can include whatever you want, as long as its contents are composed exclusively of HTML tags and text.
+\- The *original* code and text of the degenerative web page, written in HTML (file **A**)  
+\- The PHP code that executes the degeneration (file **B**)
 
-### Step 2: Create File B (The PHP Degeneration Code)
+When readers open the *degenerative* web page, **B** reads **A**, destroys a fragment of **A** and saves the altered content. All of this happens on the web server; what the reader sees on his or her screen is the result of this process. Let’s start by writing the contents of **A**, a text file with hypertext markup. Open a simple text editor (such as Leafpad[^2] on Linux) and type this example:
 
-Create a new file with the following PHP code:
+\<\!DOCTYPE html\>  
+\<html\>  
+\<head\>  
+\<title\>degenerative\</title\>  
+\</head\>  
+\<body bgcolor="\#000000" text="\#999999"\>  
+\<p align="center"\>\<strong\>\<font size="5" face="Arial, Helvetica, sans-serif"\>Your text here\</font\>\</strong\>\</p\>  
+\</body\>  
+\</html\>
 
-```php
-<?php
-$modify = "A.txt";
-$fd = fopen($modify,"r"); // open file A.txt
-$pgdata = fread($fd, filesize($modify)); // store file contents in $pgdata
+Save the file as **A.txt**. Of course, file **A** can include whatever you want, as long as its contents are composed exclusively of HTML tags and text.
+
+Now let’s turn to the PHP code[^3] in file **B**:
+
+\<?php  
+$modify \= "A.txt";  
+$fd \= fopen($modify,"r"); // open file A.txt  
+$pgdata \= fread($fd, filesize($modify)); // store file contents in $pgdata  
 fclose($fd); // close file
 
-// These four lines read contents of file A and store in $pgdata
+The four lines below the PHP opening tag read the contents of file **A** (which must be located in the same folder as file **B**) and store them in a variable named $pgdata.
 
-$j = strlen($pgdata)-1; // contains the length of file A
-$k = strpos($pgdata,"<body");
-$k = strpos($pgdata,">",$k)+2; // position after the <body> tag
+(I am aware that my variable naming choices are a bit on the lousy side, but please bear with me)
 
-$charlist = array("*","_","-",""," "); // characters used for degeneration
-$c = $charlist[rand(0,sizeof($charlist))]; // choose one at random
+$j \= strlen($pgdata)-1; // contains the length of file A  
+$k \= strpos($pgdata,"\<body");   
+$k \= strpos($pgdata,"\>",$k)+2; // position after the \<body\> tag
 
-$destrukt = rand($k,$j); // randomly choose a character to degenerate
+$charlist \= array("\*","\_","-",""," "); // characters used for degeneration  
+$c \= $charlist\[rand(0,sizeof($charlist))\]; // choose one at random
 
-$pgdata = substr($pgdata,0,$destrukt-1).$c.substr($pgdata,$destrukt,($j-$destrukt+1));
-// reconstruct the original text of file A with the degenerated character
+$destrukt \= rand($k,$j); // randomly choose a character to degenerate
 
-unlink($modify); // delete the previous version of file A
+$pgdata \= substr($pgdata,0,$destrukt-1).$c.substr($pgdata,$destrukt,($j-$destrukt+1)); // reconstruct the original text of file A minus with the degenerated character
 
-$fc = fopen($modify,"w+");
-fwrite($fc,$pgdata);
+These lines do the following:
+
+\- The first three lines assign values to variables $j and $k. Let’s recall that $pgdata contains the entire text of **A**, so we can tell that variable $j will point to its last character. Variable $k will point to a position in the text just after the “\>” character of the \<body\> tag. Shortly, we will see how $j and $k are used.
+
+\- In the fourth line, a list with possible characters that can be used to *degenerate* the original text is created. Please note that this list includes the empty (“”) character. And, in the fifth line, one character from the list is randomly chosen and stored in variable $c.
+
+\- The ominously named variable in the sixth line ($destrukt) is assigned a random numerical value between the values of $j and $k. What we’re doing here is choosing a random position within the text string contained in $pgdata. As we now know, this position can be anywhere between the “\>” character of the \<body\> tag (in order to respect the HTML code before it) and the end of the text.
+
+\- The dirty deed is done in the seventh line. Here, the character contained in $c is inserted at the position stored in variable $destrukt. This is achieved by splitting the $pgdata text string into two parts: before and after the desired position. The character in $c is used to join the parts, so we get a new value for $pgdata in which the text has been degenerated by substituting (or destroying) the character that was originally located at the position defined by $destrukt.
+
+By the way, please don’t type all these explanatory comments into the editor, or you will get some weird error messages when you try to execute the code ;-)
+
+unlink($modify);
+
+This line deletes the previous version of file **A**.
+
+$fc \= fopen($modify,"w+");  
+fwrite($fc,$pgdata);  
 fclose($fc);
-// these lines write the new version of A with degenerated text
 
-echo($pgdata); // output the resulting text for the user to read
-?>
-```
+These lines write the new version of **A**, which will now contain the degenerated text string.
 
-**Note:** Don't type the explanatory comments into the editor, or you'll get error messages when executing the code!
+echo($pgdata);  
+?\>
 
-Save this file as `B.php`. This file should be in the same folder as `A.txt`.
+And, finally, we use the echo command to output the resulting text for the user to read.
 
-### Step 3: Understanding What the Code Does
+That’s it. That’s the PHP code\! Once you’ve typed it, save it as **B.php**. As mentioned above, this new file should be on the same folder as **A.txt**. If you have access to a remote server, upload both files and get your own version of degenerative going by accessing **B.php** at the corresponding URL (for example https://myserver.net/b.php). If you are using a local server[^4] instead, save the files to the appropriate folder on your computer and open **B.php** from your web browser.
 
-**Variables $j and $k:**
-- `$pgdata` contains entire text of A
-- `$j` points to the last character
-- `$k` points to position just after the ">" character of the `<body>` tag
+Figure 1 shows the initial state of the piece you just typed. Two of its successive stages of degeneration are illustrated in Figures 2 and 3\.
 
-**Character list:**
-- `$charlist` contains possible characters for degeneration: `"*"`, `"_"`, `"-"`, `""` (empty), `" "` (space)
-- Note that the list includes the empty character
-- One character is randomly chosen and stored in `$c`
+Please let me add a final note. As I write this recipe in 2025, twenty years after originally coding *degenerative*, I can’t shake away the feeling that the digital environment is rapidly falling apart. I look around and it seems like an “unaccommodating, destructive inertia” (that’s how Justin Berner described my work\!) has taken hold of the online spaces in which both trivial and important aspects and events of our lives play out. It’s not a pretty sight, and I just don’t know how to make things better anymore. Perhaps it’s too late for that, and we’d be better off just by letting go of the digital. I really just don’t know. For now, I can only say that we’ve taken our passion for disruption several apps too far, and that these turbulent times ask of us to maybe cool it down so we can imagine ways of rebuilding things and caring for them, rather than breaking them while we move fast. Gentle is the new punk. In that spirit, I hope *degenerative* will remind us of the fragility of our collective, online spaces.
 
-**The destruction variable:**
-- `$destrukt` is assigned a random numerical value between `$k` and `$j`
-- This chooses a random position within the text string
-- Position can be anywhere between the `<body>` tag and the end of text (to respect HTML code before it)
+**References.**
 
-**The dirty deed:**
-- The character in `$c` is inserted at the position stored in `$destrukt`
-- This is achieved by splitting the `$pgdata` text string into two parts: before and after the desired position
-- The character in `$c` joins the parts
-- Result: new `$pgdata` with text degenerated by substituting/destroying the character originally at `$destrukt` position
+Arroyo, Diego Zorita (2022). *Dilemas ontológicos en la demarcación del hecho literario a raíz de Degenerativa (2005) y Regenerativa (2005) de Eugenio Tisselli*. In *Formas precarias en las literaturas hispánicas del siglo XXI* (pp. 123-135). Peter Lang.
 
-### Step 4: Deploy Your Degenerative Page
+Berner, Justin (2020). *Unhelpful Tools: Reexamining the Digital Humanities through Eugenio Tisselli’s degenerative and regenerative.* Electronic Book Review. [https://doi.org/10.7273/kbfc-4145](https://doi.org/10.7273/kbfc-4145)  
 
-**Remote Server:**
-- Upload both files to the same folder on your remote server
-- Access `B.php` at the corresponding URL (e.g., `https://myserver.net/b.php`)
+Metzger, Gustav (1959). *Auto-Destructive Art*. [http://radicalart.info/destruction/metzger.html](http://radicalart.info/destruction/metzger.html) (accessed on 09/19/2025).
 
-**Local Server:**
-- Use XAMPP (https://www.apachefriends.org/) or similar local server designed for PHP development
-- Save files to appropriate folder on your computer
-- Open `B.php` from your web browser
+[^1]: 	The piece is available at [http://motorhueso.net/degenerative](http://motorhueso.net/degenerative) (accessed on 09/19/2025).
 
-## Notes
+[^2]: 	Leafpad: [http://tarot.freeshell.org/leafpad/](http://tarot.freeshell.org/leafpad/) (accessed on 09/19/2025).
 
-### Progressive Degeneration
+[^3]: 	If you want to go deeper into PHP, I recommend looking at the documentation available at [https://php.net](https://php.net/) (accessed on 09/19/2025).
 
-The initial state shows your original text. With each visit, the page degenerates further. Successive stages show increasing textual breakdown until the page becomes unreadable.
-
-### The Original Message
-
-The original degenerative web page featured this passage:
-
-"One day, all this text will be unreadable. This will happen slowly or quickly, depending on how this page is visited. It will not be a natural decomposition: it will be the effect of code that lies within. Like an unstoppable disease, this code will eventually render the page sick and crippled."
-
-### From the Chef (2025 Reflection)
-
-"As I write this recipe in 2025, twenty years after originally coding degenerative, I can't shake away the feeling that the digital environment is rapidly falling apart. I look around and it seems like an 'unaccommodating, destructive inertia' (that's how Justin Berner described my work!) has taken hold of the online spaces in which both trivial and important aspects and events of our lives play out. It's not a pretty sight, and I just don't know how to make things better anymore. Perhaps it's too late for that, and we'd be better off just by letting go of the digital. I really just don't know. For now, I can only say that we've taken our passion for disruption several apps too far, and that these turbulent times ask of us to maybe cool it down so we can imagine ways of rebuilding things and caring for them, rather than breaking them while we move fast. **Gentle is the new punk.** In that spirit, I hope degenerative will remind us of the fragility of our collective, online spaces."
-
-### Critical Reception
-
-**Justin Berner** found that the piece:
-- Confronts readers with technical obsolescence
-- Critiques unopposed instrumentality in digital humanities
-- Critiques technosolutionism
-- Reveals underlying code through subtractive process
-- Foregrounds material effects of collective action
-- Exposes materiality concealed by seemingly immaterial interfaces and proprietary black boxes
-
-**Diego Zorita Arroyo** proposed that:
-- Stretching fragility to breaking point obstructs the formal task of language
-- Natural language, upon losing its semantic function, reveals itself purely as "material surface of inscription" devoid of meaning
-- Like unmodeled clay, or a sculpture that disfigures itself into nothingness
-
-### Historical Context
-
-**Gustav Metzger's Auto-Destructive Art Manifesto (1959):**
-- Encouraged artists to use perishable or unstable materials that degrade naturally or through human intervention
-- Purpose: parody industrial societies' "obsession with destruction"
-- "Form of public art for industrial societies" aesthetically demonstrating power to "accelerate disintegrative processes"
-
-**Pete Townshend (The Who):**
-- One of Metzger's most famous students at Ealing Art College in London
-- Mirrored teacher's lessons by enthusiastically bashing his guitar at end of shows
-
-### Technical Resources
-
-- **PHP Documentation:** https://php.net
-- **Leafpad (text editor):** http://tarot.freeshell.org/leafpad/
-- **XAMPP (local PHP server):** https://www.apachefriends.org/
-
-### References
-
-- Arroyo, Diego Zorita (2022). "Dilemas ontológicos en la demarcación del hecho literario a raíz de Degenerativa (2005) y Regenerativa (2005) de Eugenio Tisselli." In *Formas precarias en las literaturas hispánicas del siglo XXI* (pp. 123-135). Peter Lang.
-- Berner, Justin (2020). "Unhelpful Tools: Reexamining the Digital Humanities through Eugenio Tisselli's degenerative and regenerative." *Electronic Book Review*. https://doi.org/10.7273/kbfc-4145
-- Metzger, Gustav (1959). "Auto-Destructive Art." http://radicalart.info/destruction/metzger.html
+[^4]: 	XAMPP is a well-known and reliable local server specifically designed to develop PHP code. XAMPP is available at [https://www.apachefriends.org/](https://www.apachefriends.org/) (accessed on 09/19/2025)
