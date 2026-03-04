@@ -250,3 +250,31 @@ All 30 recipe files have validated, clean YAML frontmatter:
 - All required fields present
 
 **Next action:** Determine output format and extraction method based on your publishing workflow.
+
+---
+
+## Author Review Phase (March 2026)
+
+### Goal
+Have all 30 recipe authors review and approve their YAML metadata (especially the 250-word description) and recipe content before publication.
+
+### Author Instructions Document
+Created `AUTHOR_REVIEW_INSTRUCTIONS.md` with two submission paths:
+- **Option A:** GitHub pull request workflow (for technical authors)
+- **Option B:** Google Doc comments/edits (for non-technical authors)
+
+### What Authors Need to Review
+1. **250-word description** - Must write/approve summary for book publication
+2. **YAML metadata** - Verify title, chef name, abstract, genres, link, yields, difficulty
+3. **Recipe content** - Optional review for typos, formatting, code examples
+
+### Next Steps for Author Review
+1. Create Google Doc with all 30 recipes for non-technical authors
+2. Identify author contact emails from source materials
+3. Send personalized review requests with:
+   - Link to their specific recipe on GitHub
+   - Link to their section in Google Doc
+   - Copy of AUTHOR_REVIEW_INSTRUCTIONS.md
+   - Deadline for feedback
+4. Track author responses and incorporate changes
+5. Final validation pass after all author edits complete
