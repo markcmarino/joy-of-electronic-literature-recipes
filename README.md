@@ -70,7 +70,6 @@ shareable recipes — submitted by the community, expandable via GitHub Pull Req
 
 ### T
 
-- **Tisselli, Eugenio** - [Degenerative](docs/recipes/degenerative.md)
 - **Torres, Rui** - [Soul Stew: A Digital Poetry Dish with Camões and Dinamene](docs/recipes/soul-stew.md)
 - **Tschofen, Monique** - [Deformances](docs/recipes/deformances.md)
 
