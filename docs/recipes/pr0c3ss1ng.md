@@ -46,20 +46,28 @@ Generally, to play a netprov, you just need a networked device and some platform
 Netprovs make use of ingredients at hand. But in general, you need
 
 ## Ingredients
-A platform
-A playful spirit
-A posse of players 
-A premise
-A prompt
+* A platform
+* A playful spirit
+* A posse of players 
+* A premise
+* A prompt
 
 Now that last item makes us think of AI. 
+
 - Wait, Rob, let's talk about a netprov about AI.
+
 You mean, written by AI
+
 - No, I mean, about AI and how sick and tired it's getting.
+
 Sounds like it could use a therapist.
+
 - Exactly, like ELIZA.
+
 Oh, your new book. Haven't read it yet. But here's an idea: what about the people who care for AI.
+
 - You mean like AI companies?
+
 No, not quite. Imagine this -- 
 
 ## Processing
@@ -81,9 +89,9 @@ We are the secret human helpers who give artificial intelligence programs the co
 Are we trained for this? No\! Nobody is\! We need support, too\! That’s why we’ve created a discussion group where we can share stories, seek tips, and put our heads together to understand the intermachinal dynamics of the AI boom. You’re one of us\! What do you see? What have you learned? Join us\!
 
 ## Ingredients
-A social platform (Discord)
-A Premise (above)
-A Prompt: seee guide for posting below.
+* A social platform (Discord)
+* A Premise (above)
+* A Prompt: seee guide for posting below.
 
 ## Directions
 ## **How to Play**  
