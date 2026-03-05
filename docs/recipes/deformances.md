@@ -3,7 +3,7 @@ title: Deformances
 chef: Monique Tschofen
 abstract: Use large language models to deform poetic texts, exposing cultural logic through experimental transformation.
 description: >
-  Deformance brings together deforming and performance, describing a practice of deliberately "mishandling" or "mistreating" texts or datasets to generate new insights and perspectives. Coined by Jerome McGann and Lisa Samuels in 1999, the concept builds on avant-garde strategies like collage, Dadaist cut-ups, and OuLiPo algorithmic experiments. This recipe proposes digital deformance as a series of experiments that feed poetic or prose language into large language models for text, image, and sound generation. Rather than accepting bog-standard AI hyperrealism, this approach dives into surprising surrealist, expressionist, and uncanny modes, treating LLMs as experimental artifacts that perform and deform cultural memory. The method invites thinking beyond representationalism—poetic text prompts fed into sound generators won't necessarily yield literal representations. This critical engagement explicitly aims to destabilize and expose AI's logics, resisting nearly every affordance: leaning into labor visibility where AI reduces it, into complexity when it simplifies, into specificity where it generalizes. The goal is experimentation as resistance, betraying and exposing cultural logic to better avoid or manage it.
+ Write 250 word or less description.
 genres:
   - Generative Poetry
 difficulty_pans: 1
@@ -98,7 +98,7 @@ Think for a minute about what this practice of recreating a text–of deforming 
 
 Siobhan O’Flynn’s “[An Experiment in Yellow: ‘THE YELLOW WALLLPAPER. THE YELLOW WALLPWAPER. The lyelorwwalplater](https://experimentinyellow.wordpress.com/about/?preview_id=1&preview_nonce=d2515a4803&preview=true&_thumbnail_id=12%3E)”” is an example of a different kind of deformance. 
 
-![][image1]
+![An Experiment in Yellow: ‘THE YELLOW WALLLPAPER. THE YELLOW WALLPWAPER.](../images/deformances/tschofen1.png)
 
 O’Flynn’s interactive narrative, composed in Twine[^1] and co-created with several consumer-facing LLMs, creatively and critically engages with a work of fiction: Charlotte Perkins Gilman’s The Yellow Wallpaper” (1891), a story that investigates the 19th century medical “curative” practices for depression in women, tracing a woman’s descent into a madness.
 
