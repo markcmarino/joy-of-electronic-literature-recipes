@@ -71,7 +71,7 @@ let code become a letter.
 Write for the NOW.  
 Because feelings matter.
 
-**Directions:**
+## **Directions:**
 
 **Queer Kitchen Ambience**  
 Once our computer is on, we can find the terminal through the file manager. On a Mac computer, we open the Finder window, and in the search bar, we type “Terminal.app.” On a Windows computer, we search for the ‘PowerShell’ in the applications. The Terminal application icon will show up in the results. Once we double click the terminal application icon, a window appears—often black—with a line of text at the top of the window: 
@@ -101,10 +101,10 @@ queer@joy:~$ cd queerkitchen
 ```
 
    
-**Starter code:**   
+## **Starter code:**   
 **Serving Dish \- Infinite Missing**  
-**[image1]**  
-The terminal output of infinite missing
+![The terminal output of infinite missing](../images/queer-bashing/soon1.png)
+*The terminal output of infinite missing*
 
 ```bash
 while $love
