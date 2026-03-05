@@ -72,12 +72,29 @@ The time to develop and level of difficulty will depend on the cook’s familiar
 
 Below is an illustration of what your final slide series will look like.
 
-| ![A close-up of a poolAI-generated content may be incorrect.][image1] | ![Close-up of a pool with blue waterAI-generated content may be incorrect.][image2] | ![Close-up of a pool of waterAI-generated content may be incorrect.][image3] | ![A white background with black and white cloudsAI-generated content may be incorrect.][image4] | ![A black text on a white backgroundAI-generated content may be incorrect.][image5] |
-| :---- | :---- | :---- | :---- | :---- |
-| ![A close-up of a white backgroundAI-generated content may be incorrect.][image6] | ![A close-up of a white backgroundAI-generated content may be incorrect.][image7] | ![A black text on a white backgroundAI-generated content may be incorrect.][image8] | ![A close-up of a wordAI-generated content may be incorrect.][image9] | ![A close-up of a personAI-generated content may be incorrect.][image10] |
-| ![A close-up of a white backgroundAI-generated content may be incorrect.][image11] | ![A white background with red textAI-generated content may be incorrect.][image12] | ![A close-up of a blue waterAI-generated content may be incorrect.][image13] | ![A close-up of a poolAI-generated content may be incorrect.][image14] | ![A person swimming in a poolAI-generated content may be incorrect.][image15] |
-| ![A clear glass bowl with a blue square in itAI-generated content may be incorrect.][image16] | ![A clear bowl with a picture of a person swimming in itAI-generated content may be incorrect.][image17] | ![A person's back with a white backgroundAI-generated content may be incorrect.][image18] | ![A drawing of a personAI-generated content may be incorrect.][image19] | ![A drawing of a couple of womenAI-generated content may be incorrect.][image20] |
-| ![A person with a ropeAI-generated content may be incorrect.][image21] |  |  |  |  |
+<p>
+  <img src="../images/modest-beginnings/image1.jpg" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image2.png" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image3.jpg" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image4.jpg" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image5.jpg" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image6.jpg" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image7.jpg" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image8.jpg" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image9.jpg" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image10.jpg" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image11.jpg" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image12.jpg" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image13.jpg" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image14.jpg" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image15.jpg" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image16.jpg" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image17.jpg" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image18.jpg" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image19.jpg" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image20.jpg" width="168" style="margin:4px;">
+  <img src="../images/modest-beginnings/image21.jpg" width="168" style="margin:4px;">
+</p>
 
 ## **Directions:**
 
@@ -121,7 +138,7 @@ STEP 5: Continue to use the Morph function to transform images and pictures and 
 
 STEP 6: Once you’ve worked with a group of slides go to the Slide Presentation tab to view your progress. We recommend you set up your slide show so that it runs like a video on its own. To do this go to the far-right side of the Transitions bar and select a time for each side that is about 2 seconds, ensure that all slides are run After a time you want, and that you have selected “Apply To All” as shown below.
 
-![][image22]
+![](../images/modest-beginnings/image22.jpg)
 
  STEP 7 Work on an entire array of slides to create coherence or unity as you would when drafting a poem (or a visual story) with all your newly created elements of wordplay, visual effects, and layers of meaning. Notice that you can also work with other transition options in the future, or if you’re tempted you can try them now.
 
@@ -178,7 +195,7 @@ To produce kinetic word or letter effects, you will be using the Animations tab 
 
 For this example, select a first box and click on Appear. Then open the Animation Pane and open Picture 1 there, to apply Effect Options to the text. On this option, choose “by letter” as shown below.  
 
-![A screenshot of a computerAI-generated content may be incorrect.][image23]
+![](../images/modest-beginnings/image23.jpg)
 
 Use the Preview option to see how each individual character will appear successively on the screen, drawing the viewers’ attention to read or enjoy the movement of letters as making them out.
 
@@ -188,8 +205,7 @@ For a more concentrated *lettrist* effect, as a quote from Kenneth Goldsmith fro
 
 We animated each letter with the Appear animation option. Below we show the Animation Pane and how each picture will be listed numerically. Click on each picture on the Animation Pane and set it to “After Previous”.
 
-![A screenshot of a computerAI-generated content may be incorrect.][image24]
-
+![](../images/modest-beginnings/image24.jpg)
 STEP 5:
 
 Insert the “Morph” function between slides where you want to move an image or word.  Interesting options include resizing image with a rhythm and selecting a sound effect option from the Animation pane. Timing should generally be at Fast, or Medium. 
