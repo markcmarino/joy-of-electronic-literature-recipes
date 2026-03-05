@@ -28,23 +28,18 @@ School of the Art Institute of Chicago
 
 The recipe I would like to share is one derived from ATOM-r’s first major performance, *The Operature* ([https://vimeo.com/224378134](https://vimeo.com/224378134)).  This work was developed in relation to two primary sources: the history of medicine and the architectural form of the anatomical theatre, on the one hand, and the life and work of Samuel Steward, on the other. Steward was a Chicago-based writer and tattoo artist who was a friend of Gertrude Stein but followed his artistic and physical desires in a unique body of work encompassing low-brow gay pulp fiction, countless needled inscriptions upon and within the skin of sailors, and through the accumulation over many years of his *Stud File*. Steward's *Stud File* is a card catalogue of his sexual encounters with a coded system for cross-referencing attributes of men and intimate experiences while protecting the identity of lovers and tricks at a time when anti-sodomy laws were still in place. Steward's archive, begun as early as the 1930s and spanning at least 50 years, extended beyond index cards to include drawings, writings, ephemera, and biological samples including body hair.
 
-![][image1]
-
-Figure 1
+![Figure 1](../images/jolly-apogee/morrissey1.png)
 
 In retrospect, my encounter with Steward, via the symbol of the anatomical theatre, marked the beginning of a gradual personal transition from a hypochondriac orientation resulting from externalized and internalized homophobia and the fear of hiv/aids, to an embrace of a liberatory sexuality, in which the symbolic and real domains  of health and medicine became not a primal scene of punishment but a tool to navigate desire safely. It was also through this work that I moved from the disembodied wizard behind the curtain into the performance space, largely due to the increasing portability of everyday technologies that I was using to generate poetic systems. While my practice of embodied electronic writing  continues to evolve to reach new apogees of integration, the earliest poems made use in a minimalistic way of the basic affordances of mobile media \- ubiquitous access to a compass, gyroscope, accelerometer, and means of accessing gps coordinates. But I continue to use these simple forms both in my work and in workshops I give as an artist and art school professor.
 
 I have settled on sharing an open-ended recipe for a gesture poem based on the closing text *The Operature.* For the sake of ease, I have recreated the poem in the P5js editor so anyone can make their own copy and modify its contents and functionality. The poem can be activated on and performed with a smartphone and remixed into one’s own. Fortuitously, in the spirit of JOEL, who now incarnates in our minds as a joyful lover, the P5 sketch’s generated name is *Jolly apogee.* While the site of the body, health, and sexuality is complex, there is joy to be found in the full and ephemeral life of the body. While the phrase *memento mori* is a reminder of our mortality, this reminder is also meant to foster a feeling of joy in the savoring of present moments. The minimal embodied gesture poem and source code will be shared at the end of this document, but first I’d like to include some more steps, including a constraint-based writing exercise, so that you can make it into a gesture poem of your own.
 
-![][image2]
 
-Figure 2
+![Figure 2](../images/jolly-apogee/morrissey2.png)
 
 Let’s familiarize ourselves with two systems relevant to this experiment: the device coordinate system of smartphones, and the planes of the human body. The coordinate system of smartphone device orientation and motion consists of three axes: x, y, and z.
 
-![][image3]
-
-Figure 3
+![Figure 3](../images/jolly-apogee/morrissey3.png)
 
 X  
 Represents the east-west direction (where east is positive).
@@ -57,9 +52,7 @@ Represents the up-down direction, perpendicular to the ground (where up is posit
 
 Less practical perhaps for our purposes, let’s have a parallel look at the planes of our bodies:
 
-![][image4]
-
-Figure 4
+![Figure 4](../images/jolly-apogee/morrissey4.jpg)
 
 Sagittal Plane: This plane runs vertically through the body, separating it into left and right portions. A midsagittal plane is a sagittal plane that divides the body into equal halves, while other sagittal planes are parallel to it.
 
@@ -69,9 +62,8 @@ Transverse Plane: This horizontal plane divides the body into superior (top) and
 
 Now, let’s begin to orient ourselves towards the writing portion of the process. To inform the experiment, let’s focus on an image, *Self-Portrait of David Wojnarowicz,* to contemplate the entanglement of body, place and event.
 
-![][image5]
+![Figure 5](../images/jolly-apogee/morrissey5.jpg)
 
-Figure 5
 
 In another work, *Untitled Map,* the artist and writer David Wojnarowicz, begins an address, primarily to his friend and former lover, Peter Hujar, with the text: *When I put my hands on your body your flesh I feel the history of the body*.
 
@@ -95,9 +87,8 @@ For 10 more minutes (or more), write freely in response to the prompt: *Reflect 
 
 At this point, you can experience the source poem in P5js by scanning the qr code or entering the tiny url in your smartphone browser: [https://tinyurl.com/Operature](https://tinyurl.com/Operature).
 
-![][image6]
+![Figure 6](../images/jolly-apogee/morrissey6.jpg)
 
-Figure 6
 
 I recommend that you hold the poem in landscape mode. After tapping the title button, move your hand and arm with some force in the direction in which the finger icon is pointing. The gesture must be strong enough to trigger the phone’s accelerometer which is set to a certain threshold. Continue to gesture to bring up new lines of the poem which you may also read aloud.
 
