@@ -95,7 +95,7 @@ For recordings and notes on 22 *Distant Feeling(s)* sessions see daniel-pinheiro
 In 2015 Daniel Pinheiro, a researcher / performer in telematic art from Porto, and Lisa Parra, a choreographer from New York, asked me to participate in their online piece called *Placelessness*. On that occasion we decided to test if our feelings of online affective connection in front of a webcam would still exist when removing the fundamental senses that normally allow connectedness to happen. We sat silently with closed eyes in front of our computers trying to experience the others’ presence across the network. It was an extraordinary experience that in the years to come became a yearly ritual celebrating online togetherness, while meditating on our entanglement with the machines and what that meant to us. We continued to be fascinated by the shared sound environment where individual home environments mixed with the noises of the machines; all altered by the algorithms of the videoconferencing tool.   
 I personally still am intrigued by the intimacy it created, especially the moment we opened our eyes and looked at the others with whom we surrendered to a time in "idle" contemplation and whose "abandoned" faces we can still ponder in the recording.
 
-**![][image1]**screencapture Distant Feelings confinement \#4 session 17/04/20.
+![screencapture Distant Feelings confinement #4 session 17/04/20.](../images/distant-feelings/abrahams1.png)
 
 ### **Directions** 
 
@@ -114,8 +114,8 @@ In *Utterings*, an online research and performance project with Daniel, Constanc
 You can visit a link to samples for inspiration and lots of notes on our research, process with thoughts on voice, language, silence, listening, hearing, affect, politics, the role of an audience and even erotics...  here: utterings.hotglue.me ([https://utterings.hotglue.me](https://utterings.hotglue.me/))  
 The basic recipe is the same as the one for *Distant Feeling(s)*, but in *Utterings* you wear a blindfold and must use your voice. 
 
-![][image2]  
-screencapture utterings \#3, 05/05 2020\.
+![screencapture utterings \#3, 05/05 2020\.](../images/distant-feelings/abrahams2.png)
+
 
 What follows are some tips to make the experience interesting and not just a playful shared moment.
 
@@ -139,8 +139,7 @@ While dancing themselves the organizer starts giving incentives concerning the t
 
 *Distant Movements* has been developed by Daniel, Muriel Piqué and me. You can find recordings, notes, and a protocol on our website distantmovements.tumblr.com ([https://distantmovements.tumblr.com](https://distantmovements.tumblr.com)), which is partly in French.
 
-![][image3]  
-screencapture Distant Movements \#23 20/06/24.
+![screencapture Distant Movements \#23 20/06/24.](../images/distant-feelings/abrahams3.png)
 
 Enjoy cooking, hopefully the *Distant Feeling(s)* recipe will help you to perceive new approaches in online connection(s) and inspire you to invent variations that will even go further.   
 Beyond online habits and imposed constraints.
