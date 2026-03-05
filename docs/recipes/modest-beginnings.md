@@ -206,6 +206,7 @@ For a more concentrated *lettrist* effect, as a quote from Kenneth Goldsmith fro
 We animated each letter with the Appear animation option. Below we show the Animation Pane and how each picture will be listed numerically. Click on each picture on the Animation Pane and set it to “After Previous”.
 
 ![](../images/modest-beginnings/image24.jpg)
+
 STEP 5:
 
 Insert the “Morph” function between slides where you want to move an image or word.  Interesting options include resizing image with a rhythm and selecting a sound effect option from the Animation pane. Timing should generally be at Fast, or Medium. 
