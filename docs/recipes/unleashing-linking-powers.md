@@ -44,7 +44,7 @@ There are so many ways that meaning bends--it is the ultimate ingredient in any 
 
 Creating a poster is a quick exercise to demonstrate these relationships, and this poster link recipe can be used anywhere with just simple ingredients (paper, sticks, stones, etc.—no computers required.). I have created a sample to explain a few of these possible relationships. I’m sure you can find many more themes here. A bit of a warning, though: while you can connect completely random and unrelated materials, links, like spices, do not themselves make up the entire dish. You need content, and the more related the content, the stronger the links. For example, in this piece, we have Maya, a background event, and a woven philosophy on the same subject. And of course you can find the similarities in the images that resonate with the text as well. 
 
-![A close-up of a textAI-generated content may be incorrect.][image1]
+![Figure 1.](../images/unleashing/larsen1.png)
 
 This example is a poster board depicting an electronic literature piece that I created for this linking recipe, which is on the web at [http://www.deenalarsen.net/joel](http://www.deenalarsen.net/joel) (http://www.deenalarsen.net/joel). In this poster, I picked out mostly semantic links. In the actual electronic literature piece, I added in the navigational and functional links to make it easier to read. In this example poster, I wrote in the roles that these links play.
 
