@@ -39,7 +39,7 @@ Most notably, the apparent “right” choice is constantly visible to the reade
 
 The next two choices are both available, as the links are functional. However, they require the player to be in a state in which they are accessible: the code “if $motivation gte 9” acts as a conditional statement, checking to see if the current motivation is greater than or equal to the value of nine. The next decision — the next best option — is structured similarly, but with a motivation lock of five.
 
-\[\[4: Crawl into bed. You’re so stressed and overwhelmed you couldn’t possibly accomplish anything anyways.|gotoBed\]\]
+[[4: Crawl into bed. You’re so stressed and overwhelmed you couldn’t possibly accomplish anything anyways.|gotoBed]]
 
 The last decision — the worst decision, given the looming deadlines the character is facing — is always available, ensuring the player can always progress. One of the biggest challenges with this type of system is making sure that the player can progress as intended: that is to say, we need to avoid dead ends and paths that cannot possibly progress. The easiest way to ensure there is always a choice is to have a single option that isn’t behind a conditional statement — that path, in *Depression Quest*, is consistently the least desirable option, or the path of least resistance.
 
@@ -86,7 +86,7 @@ For this recipe, create a passage tagged *header.* This will appear at the top 
 Here’s a simple example of displaying the same values set in the code in our *startup* passage:
 
 ```
-(align:"=\>")+(box:"=XX=")\[(border:"dotted")+(border‑colour:purple)\[''Name: (print: $charName)''
+(align:"=>")+(box:"=XX=")[(border:"dotted")+(border‑colour:purple)[''Name: (print: $charName)''
 
 Curiosity: (print:$curiosity)
 
@@ -94,7 +94,7 @@ Ambition: (print:$ambition)
 
 Persistence: (print:$persistence)
 
-Kindness: (print:$kindness)\]\]
+Kindness: (print:$kindness)]]
 ```
 
 Notice there are a few other Harlowe 3.X macros at work in this recipe, which allow our stats to display more distinctly from the rest of the passage. The first macro, *align,* sets the text at an alignment indicated by the direction of the arrow (in this case, right); then, *box* creates an outline surrounding the text, and the two properties for *border* determine the display. The rest of the code simply prints the value in each variable — this will change as the reader progresses.
@@ -116,7 +116,7 @@ Your stats are:
 
 *Kindness: (print:$kindness)*
 
-[\[You can’t re‑roll in life-\>Play\]\].
+[[You can’t re‑roll in life->Play]].
 ```
 
 Currently, this allows the player to input a name for their character. You can use a similar structure for anything you’d like to make dependent on player input. To avoid displaying the stats on this page (before the reader has even selected a name), we simply wrap the previous code with a conditional statement that checks to make sure we’re on a passage after the “Title” before displaying the contents.
