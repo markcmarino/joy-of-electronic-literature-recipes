@@ -15,7 +15,7 @@ yields: >
   A shared recording of silent online co-presence, available to all participants
   afterward, along with heightened awareness of bodily presence, connection, and
   the sounds of disparate home environments merging across the network.
-github_link: https://bram.org/distantF
+github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/distant-feelings.md
 ---
 
 # **Distant Feeling(s) \- a recipe** **connecting telematically over distance  \- fighting alienation**
