@@ -27,10 +27,10 @@ These fields are at the top of your recipe file between `---` markers:
 
 ### What You Need to Do
 
-1. **Write a 250-word description** of your recipe if you haven't already
-   - This is the `description` field in the YAML
-   - Summarize what your recipe teaches and its context
-   - Preserve any line breaks and don't add blank lines in this section as it affects how the yaml is rendered
+1. **Write a 250-word description and 50-word yields** of your recipe if you haven't already
+   - These are in the `description` and 'yields' fields in the YAML
+   - Summarize your recipe, what it teaches, and what it yields
+   - If you are editing in Github, preserve any line breaks and don't add blank lines in this section as it affects how the yaml is rendered
 
 2. **Review all YAML fields** for accuracy
    - Check your name spelling
@@ -43,11 +43,10 @@ These fields are at the top of your recipe file between `---` markers:
    - Ensure all steps are clear
    - Verify code examples work as intended
 
-4. **Add images** (if your recipe originally had them)
+4. **review images** 
    - Upload images to `docs/images/your-recipe-slug/` folder
    - Reference them in your recipe with relative paths
    - See the "Adding Images" section below for instructions
-
 ---
 
 ## How to Submit Changes
