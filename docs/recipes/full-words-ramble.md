@@ -9,10 +9,8 @@ genres:
   - Generative Poetry
 difficulty_pans: 2
 yields: >
-  A continuously evolving browser text that wanders from its source prose through
-  word-by-word phonetic and orthographic substitution, then wanders back, readable
-  live and shareable as an Observable notebook.
-github_link: https://observablehq.com/@shadoof/full-words-ramble
+  50-words or less yield
+github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/full-words-ramble.md
 ---
 # Full Words Ramble
 
