@@ -9,10 +9,8 @@ genres:
   - Performance/Experience
 difficulty_pans: 2
 yields: >
-  A working JavaScript limerick generator that outputs a randomized menu serving 1–8
-  diners, suitable for live cooking performances, distributed feasts, or classroom
-  demonstrations of constraint-based poetics.
-github_link: https://github.com/placeholder
+  Write 50 words or less yields
+github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/gastropoetic-generator.md?plain=1)
 ---
 
 # **Gastropoetic Generator**
