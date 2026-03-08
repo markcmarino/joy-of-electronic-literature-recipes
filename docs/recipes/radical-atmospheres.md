@@ -12,7 +12,7 @@ custom_genres:
 difficulty_pans: 1
 yields: >
  write 50-word or less yields
-github_link: https://rw-app-spaces-speak.surge.sh/
+github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/radical-atmospheres.md)
 ---
 
 						\_\_\_
