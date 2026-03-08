@@ -1,7 +1,7 @@
 ---
 title: Radical Atmospheres
 chef: Andrew Demirjian
-abstract: 
+abstract: >
 	reorganizing archival source texts using regular expressions and NLP to generate poetic material for audio augmented reality experiences.
 description: > [Please, write 250 words or less]
 genres:
