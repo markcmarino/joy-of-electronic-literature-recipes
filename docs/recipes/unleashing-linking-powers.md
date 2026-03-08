@@ -12,10 +12,8 @@ custom_genres:
   - Linking practice
 difficulty_pans: 1
 yields: >
-  A paper or electronic hypertext in which links carry denotative, connotative,
-  emotional, and narrative meaning, built through poster exercises that develop
-  linking intuition transferable to digital tools like Twine.
-github_link: http://www.deenalarsen.net/joel
+  write 50-word yields
+github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/unleashing-linking-powers.md)
 ---
 
 # Unleashing Your Linking Powers
