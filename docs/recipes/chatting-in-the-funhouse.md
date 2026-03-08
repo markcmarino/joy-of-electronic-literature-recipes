@@ -11,7 +11,7 @@ yields: >
   A custom ChatGPT model that embodies a fictional author's voice, enabling literary
   exploration, classroom engagement, or generative narrative performance with a curated
   LLM dialogue generator.
-github_link: https://chatgpt.com/g/g-Jf5JFqN8t-uncle-buddy
+github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/chatting-in-the-funhouse.md?plain=1
 ---
 
 # Chatting in the Funhouse: Building an AI-Driven Narrative Partner Inspired by *Uncle Buddy’s Phantom Funhouse*[^1]
