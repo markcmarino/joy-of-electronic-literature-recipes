@@ -16,7 +16,7 @@ yields: >
   One or two interactive lyric videos performable live in time with music,
   syllable by syllable, using a spreadsheet score and the Stepworks tool as a
   rhythmic text instrument.
-github_link: https://step.works
+github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/interactive-lyric-videos.md?plain=1)
 ---
 # Interactive Lyric Videos with Stepworks 
 
