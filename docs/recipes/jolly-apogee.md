@@ -9,10 +9,8 @@ genres:
   - Word Manipulation
 difficulty_pans: 3
 yields: >
-  A remixable p5.js gesture poem performed with a smartphone, where bodily movement
-  through space triggers lines of text—suitable for solo performance, workshop
-  facilitation, or collaborative literary event.
-github_link: https://tinyurl.com/Operature
+  Write 50-words or less for yields
+github_link:(https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/jolly-apogee.md)
 ---
 # **Jolly apogee: A Minimal Embodied Gesture Poem**
 
