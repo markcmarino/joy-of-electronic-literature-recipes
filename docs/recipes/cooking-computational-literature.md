@@ -2,10 +2,13 @@
 title: Cooking Computational Literature
 chef: Nick Montfort
 abstract: 
-description: If you love computational literature, you can develop your abilities as a programmer as you also work on the literary art you love. It’s possible to create new computational literature in a bottom-up way, making incremental changes to an existing work. You can swap out strings of text in the original program with your own text, then change and tune parameters, and then start to explore how to edit the code itself. Modifying a work can help you better understand computation as well as language.
+description: >
+  Write 250 words or less
 genres: 
 difficulty_pans: 2
-yields: 
+yields: >
+  Write 50 words or less
+github link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/cooking-computational-literature.md
 ---
 
 # **Cooking Computational Literature**
