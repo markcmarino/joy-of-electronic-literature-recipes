@@ -1,19 +1,21 @@
 ---
-title: Radical Atmospheres
-chef: Andrew Demirjian
-abstract: >
-	reorganizing archival source texts using regular expressions and NLP to generate poetic material for audio augmented reality experiences.
-description: > [Please, write 250 words or less]
-genres:
-  - Audio
-  - Augmented Reality
-custom_genres: >
-  - Audio AR
-  - Archival poetics
-difficulty_pans: 1
-yields: >
- write 50-word or less yields
-github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/radical-atmospheres.md)
+  title: Radical Atmospheres
+  chef: Andrew Demirjian
+  abstract: >
+    Reorganizing archival source texts using regular expressions and NLP to
+    generate poetic material for audio augmented reality experiences.
+  description: >
+    Write your actual 250-word description here.
+  genres:
+    - Audio
+    - Augmented Reality
+  custom_genres:
+    - Audio AR
+    - Archival poetics
+  difficulty_pans: 1
+  yields: >
+    Write your 50-word yields here.
+  github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/radical-atmospheres.md
 ---
 
 						\_\_\_
