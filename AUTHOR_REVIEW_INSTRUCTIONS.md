@@ -6,7 +6,7 @@ Thank you for contributing to the *Joy of Electronic Literature Recipes*! We're 
 
 Your recipe has two parts:
 
-1. **YAML Metadata** (at the top of your file) - This will appear in the published book
+1. **YAML Metadata** (at the top of your file) - This will appear in the printed book
 2. **Recipe Content** (the main body) - The full recipe instructions and background
 
 **Recipe Template Reference:** For a complete guide to recipe structure and sections, see [docs/RECIPE_TEMPLATE.md](docs/RECIPE_TEMPLATE.md) in the repository.
@@ -29,7 +29,8 @@ These fields are at the top of your recipe file between `---` markers:
 
 1. **Write a 250-word description and 50-word yields** of your recipe if you haven't already
    - These are in the `description` and `yields` fields in the YAML
-   - Summarize your recipe, what it teaches, and what it yields
+   - For description: summarize your recipe, what it teaches
+   - for yields: describe the output or what the cook will have once they complete the recipe
    - If you are editing in Github, preserve any line breaks and don't add blank lines in this section as it affects how the yaml is rendered
 
 2. **Review all YAML fields** for accuracy
@@ -39,7 +40,8 @@ These fields are at the top of your recipe file between `---` markers:
    - Ensure abstract and yields are accurate
 
 3. **Review the full recipe content** (optional but encouraged)
-   - Check for typos or formatting issues
+   - Check that your recipe fits the format [docs/RECIPE_TEMPLATE.md](docs/RECIPE_TEMPLATE.md)
+   - Review for typos or formatting issues
    - Ensure all steps are clear
    - Verify code examples work as intended
 
@@ -48,7 +50,6 @@ These fields are at the top of your recipe file between `---` markers:
    - Check that they appear correctly in your recipe
    - Let us know if any are missing, incorrectly placed, or need captions updated
    - See your recipe on GitHub to view the images
-
 ---
 
 ## How to Submit Changes
@@ -62,20 +63,11 @@ Choose the method that works best for you:
 2. Find your recipe tab
 3. **Note:** You have "comment" access only - this allows us to track all changes and ensure nothing gets accidentally edited
 
-**Step 2: Make Suggestions Using Suggesting Mode**
+**Step 2: Make Corrections by making Comments in the Google Doc**
 
 For text changes (description, corrections, etc.):
 
-1. **Switch to Suggesting mode:**
-   - Click the pencil icon (top right)
-   - Select "Suggesting" (or use Ctrl+Alt+M / Cmd+Option+M)
-
-2. **Make your edits** - they'll appear as suggestions we can approve:
-   - Write or edit your 250-word description and 50-word yields
-   - Correct any YAML fields
-   - Fix typos or clarify content
-
-**Step 3: Use Comments for Notes**
+**Step 3: Also, use Comments for Notes**
 
 For questions or notes about images:
 
