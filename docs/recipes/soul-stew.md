@@ -3,13 +3,13 @@ title: Soul Stew Digital Poetry with Camões and Dinamene
 chef: Rui Torres
 abstract: Classroom recipe for teaching combinatorial digital poetry using classic Portuguese sonnets and their remixes.
 description: >
- [Please write 250 words or less description]
+ Please write 250 words or less description
 genres:
   - Generative Poetry
 difficulty_pans: 1
 yields: >
-  Two class periods of engagement with classic sonnets, student-generated remixes, selected variations for publication, and deeper understanding of combinatorial poetry.
-github_link: https://telepoesis.net/camoes_500
+  Write 50 words or less for recipe yield
+github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/soul-stew.md
 ---
 # Soul Stew: A Digital Poetry Dish with Camões and Dinamene \- A Recipe for Cooking Up Classic Sonnets in the Classroom
 
