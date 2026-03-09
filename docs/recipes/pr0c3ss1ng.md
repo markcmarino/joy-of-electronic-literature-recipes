@@ -11,7 +11,7 @@ custom_genres:
 difficulty_pans: 1
 yields: >
   A collaborative fiction exploring AI systems through comedy, shared on any networked writing platform with 2+ participants.
-github_link: https://markcmarino.com/tempspence/
+github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/pr0c3ss1ng.md
 ---
 
 ## Pr0c3ss1ng, a netprov about the silly underbelly of artificial intelligence 
