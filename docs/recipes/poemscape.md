@@ -3,13 +3,13 @@ title: Poemscape
 chef: Christine Wilks
 abstract: Create interactive animated poetry that responds to mouse movement through color, space, text, and motion.
 description: >
-  [Please write 250 words or less for descriptions]
+  Please write 250 words or less for description
 genres:
   - Generative Poetry
 difficulty_pans: 2
 yields: >
-  An interactive poemscape where one animated word displays at a time, changing based on pointer position, with color and motion responding to user movement.
-github_link: https://codepen.io/crissxross/full/QwNbJbM
+  Write 50 words or less for recipe yield
+github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/poemscape.md
 ---
 # Poemscape: an interactive mix of color, space, text and motion
 
