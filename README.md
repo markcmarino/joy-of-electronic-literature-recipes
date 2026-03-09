@@ -49,7 +49,6 @@ shareable recipes — submitted by the community, expandable via GitHub Pull Req
 
 - **McDaid, John** - [Chatting in the Funhouse](docs/recipes/chatting-in-the-funhouse.md)
 - **Memmott, Talan & Scott Rettberg** - [Gastropoetic Generator](docs/recipes/gastropoetic-generator.md)
-- **Montfort, Nick** - [Cooking Computational Literature](/docs/recipes/cooking-computational-literature.md)
 - **Morrissey, Judd** - [Jolly Apogee](docs/recipes/jolly-apogee.md)
 
 ### P
