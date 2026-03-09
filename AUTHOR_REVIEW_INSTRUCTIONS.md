@@ -224,4 +224,4 @@ If you have questions about the process of editing, contact Mark.
 If you have questions about your revision, contact your editor.
 For recipe structure guidance, see [docs/RECIPE_TEMPLATE.md](docs/RECIPE_TEMPLATE.md).
 
-Thank you for your contribution to this cookbook!
+Thank you for your contribution to the Joy of Electronic Literature!
