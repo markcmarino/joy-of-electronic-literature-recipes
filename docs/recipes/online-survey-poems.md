@@ -3,15 +3,15 @@ title: Online Survey Poems
 chef: Alexandra Saum-Pascual
 abstract: Repurpose corporate survey platforms like Google Forms to create interactive poetry and narrative prose.
 description: >
-  [Insert 250 word or less description]
+  Write 250 word or less description
 genres:
   - Hypertext
 custom_genres:
   - Multiple Choice Poetry
 difficulty_pans: 1
 yields: >
-  An interactive survey-poem where readers navigate through multiple-choice questions, text fields, and sections that function as verses, stanzas, and narrative paths.
-github_link: https://docs.google.com/forms/d/e/1FAIpQLSfZ4C9Q4i_KCwuDei2kK1SV7GyVQrWYozEavjbi-xpCqv55OA/viewform
+  Please write 50 words or less for recipe yield
+github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/online-survey-poems.md
 ---
 # Online Survey Poems
 
