@@ -3,13 +3,13 @@ title: Dis/Appearing Recipe
 chef: Katy Ilonka Gero
 abstract: Create erasure poetry that computationally removes or transforms words to reveal new meanings within existing texts.
 description: >
-  [Please write a 250-word or less description]
+  Please write a 250-word or less description
 genres:
   - Generative Poetry
 difficulty_pans: 2
 yields: >
-  An HTML page where text slowly erases word by word, creating endless moments of serendipitous poetry along the way.
-github_link: https://www.katygero.com/dis-appear/
+  Write 50 words or less for recipe yield
+github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/disappearing-recipe.md
 ---
 
 # Dis/Appearing Recipe
