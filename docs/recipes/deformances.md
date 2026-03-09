@@ -8,8 +8,8 @@ genres:
   - Generative Poetry
 difficulty_pans: 1
 yields: >
-  Multiple experimental servings of deformed text, image, or sound that reveal hidden patterns and expose the biases embedded in AI systems.
-github_link: https://pr-if.org/doc/play-if-card/play-if-card.html
+  Write 50 words or less for recipe yield
+github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/deformances.md
 ---
 
 # **Deformances**
