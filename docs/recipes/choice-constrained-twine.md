@@ -8,7 +8,7 @@ genres:
   - Hypertext
 difficulty_pans: 1
 yields: >
-  Please wrote 50 words or less to describe the yield.
+  Please write 50 words or less to describe the yield.
 github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/choice-constrained-twine.md)
 ---
 
