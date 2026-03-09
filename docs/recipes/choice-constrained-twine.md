@@ -8,10 +8,8 @@ genres:
   - Hypertext
 difficulty_pans: 1
 yields: >
-  A Twine story with stat-tracking variables, a persistent header display, and
-  conditional choice gates that unlock or restrict narrative paths based on the
-  player's accumulated decisions.
-github_link: https://github.com/AMSUCF/Interactive-Digital-Narratives/blob/main/GamingTwine.html
+  Please wrote 50 words or less to describe the yield.
+github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/choice-constrained-twine.md)
 ---
 
 # Choice‑Constrained Twine with Harlowe 3.x
