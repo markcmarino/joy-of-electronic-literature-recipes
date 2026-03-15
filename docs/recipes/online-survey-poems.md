@@ -1,6 +1,6 @@
 ---
 title: Online Survey Poems
-chef: Alexandra Saum-Pascual
+chef: Alex Saum-Pascual
 abstract: Repurpose corporate survey platforms like Google Forms to create interactive poetry and narrative prose.
 description: >
   Write 250 word or less description
@@ -15,9 +15,9 @@ github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes
 ---
 # Online Survey Poems
 
-Alexandra Saum-Pascual
+Alex Saum-Pascual
 
-Associate Professor of Contemporary Spanish Literature and New Media, Department of Spanish and Portuguese
+Associate Professor of Contemporary Spanish Literature and New Media, Department of Spanish and Portuguese and Berkeley Center for New Media
 
 University of California, Berkeley
 
