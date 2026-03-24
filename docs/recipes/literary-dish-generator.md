@@ -36,6 +36,25 @@ yields: >
   or server required.
 github_link: https://github.com/markcmarino/literary-dish-generator
 ---
+# Creating with Machines \-  Poetic Recipes for Generative Bots
+
+Margaret Rhee  
+Chair of Arts Writing and Assistant Professor of Writing Across Media, School of Media Studies & Creative Writing MFA Program  
+The New School
+
+Mark C. Marino  
+Professor (Teaching) Writing Program  
+University of Southern California
+
+**Class of E-lit:** Text Generators  
+**Dish:** a simple starter for a variety of bots or electronic poetry.   
+**Required ingredients:** *Computer or phone. Creativity. Code editor (though a text editor will do in a pinch\!)*  
+**Preparation and cooking time:** 15 minutes 
+
+**Number of servings and serving size:** 1 generator
+
+**Rating: 🍳 one pan, easy**
+
 
 ## Background
 
@@ -79,12 +98,12 @@ when compiled, the execution produces a result. The code must run.
 ## Ingredients
 
 - Computer or phone
-- Creativity
 - Code editor (a plain text editor will do in a pinch)
 - Paper or spreadsheet (for planning your word lists)
 - A web browser
 
 **Preparation and cooking time:** 15 minutes
+
 **Servings:** 1 generator
 
 ## From the Chefs

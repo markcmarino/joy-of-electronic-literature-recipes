@@ -48,12 +48,12 @@ shareable recipes — submitted by the community, expandable via GitHub Pull Req
 ### M
 
 - **McDaid, John** - [Chatting in the Funhouse](docs/recipes/chatting-in-the-funhouse.md)
+- **Marino, Mark C. with Nick Montfort** - [Gorgeous Taroko Gorge](https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/gorgeous-taroko-gorges.md)
 - **Memmott, Talan & Scott Rettberg** - [Gastropoetic Generator](docs/recipes/gastropoetic-generator.md)
 - **Morrissey, Judd** - [Jolly Apogee](docs/recipes/jolly-apogee.md)
 
 ### P
 
-- **Parrish, Allison** - [Labeling](docs/recipes/labeling.md)
 - **Pintar, Judith** - [Mashed Soup](docs/recipes/mashed-soup.md)
 
 ### R
@@ -70,7 +70,6 @@ shareable recipes — submitted by the community, expandable via GitHub Pull Req
 
 ### T
 
-- **Tisselli, Eugenio** - [Degenerative](docs/recipes/degenerative.md)
 - **Torres, Rui** - [Soul Stew: A Digital Poetry Dish with Camões and Dinamene](docs/recipes/soul-stew.md)
 - **Tschofen, Monique** - [Deformances](docs/recipes/deformances.md)
 

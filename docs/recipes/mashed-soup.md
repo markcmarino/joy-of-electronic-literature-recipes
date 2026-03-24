@@ -3,35 +3,27 @@ title: Mashed Soup An Inform Tasting and Recipe Variously Spiced
 chef: Judith Pintar
 abstract: A step-by-step Inform recipe teaching parser-based interactive fiction through building a kitchen narrative about grief, memory, and making grandmother's soup.
 description: >
-  "Mashed Soup" is both a playable parser-based interactive fiction and a comprehensive
-  tutorial for building one in Inform, the natural-language programming language created
-  by Graham Nelson. The recipe teaches world-building, custom actions, and all six types
-  of Inform rules (before, instead, check, carry out, after, report) through the metaphor
-  of cooking.
-
-  The narrative centers on a player-cook having a hard day who makes their grandmother's
-  comfort soup, discovering family memories through object descriptions. Players interact
-  by typing commands like "mash potato" or "examine apron" rather than clicking.
-
-  The tutorial begins with a "tasting"—a gameplay transcript—then guides designer-chefs
-  step-by-step through creating a kitchen room, a masher tool, mash-able ingredients
-  (onion, garlic, potato), scenery containers, and a player character wearing grandma's
-  apron. The technical focus is defining a custom "mashing" action. The "mild" version
-  ends when all ingredients are mashed; the "medium spicy" version adds actions for
-  remembering, eating, and warming solitude for emotional narrative resolution.
-
-  Each step includes tasks with visual markers (➤, ➤➤, ➤➤➤) prompting designers to adapt
-  the template to their own kitchens and stories. Works in Inform desktop or browser-based
-  Borogove.
+   Please write description in 250 words or less.
 genres:
   - Hypertext
 difficulty_pans: 2
 yields: >
-  A playable parser-based interactive fiction teaching Inform fundamentals through
-  world-building and custom action creation, with gameplay revealing a narrative of
-  grief and comfort through making grandmother's mashed soup.
-github_link: https://mm45nx3c.play.borogove.io/
+  Please write 50 words or less describing the yield
+github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/mashed-soup.md)
 ---
+# *Mashed Soup*: An Inform Tasting and Recipe Variously Spiced
+
+**Judith Pintar**
+
+Teaching Associate Professor & Director of the Game Studies and Design Program, School of Information Sciences
+
+University of Illinois Urbana-Champaign
+
+**Category:**  Interactive fiction  
+**Class of E-Lit:** Parser-based narrative; world model  
+**Required ingredients:** Inform IF language and Borogove IF player  
+**Preparation and cooking time:**  About an hour  
+**Rating: 🍳🍳** medium (for those new to Inform)
 
 ## Background
 
@@ -623,7 +615,8 @@ In *Mashed Soup* all six action rules were used. Some designer-chefs collapse ca
 
 ---
 
-### Figure 2. A Quick Guide to how Inform Processes Rules and Where Action Stops
+![Figure 2. A Quick Guide to how Inform Processes Rules and Where Action Stops](../images/mashed-soup/pintar1.jpg)
+###Figure 2. A Quick Guide to how Inform Processes Rules and Where Action Stops
 
 1. **Before** → Processing will stop here, *only if* a condition is met and the rule says "**stop the action.**"
 2. **Instead** → Processing will stop here, *unless* the rule says "**continue the action.**"

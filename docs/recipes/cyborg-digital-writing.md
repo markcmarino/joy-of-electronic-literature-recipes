@@ -3,142 +3,178 @@ title: A Cyborg Digital Writing Primer
 chef: Leonardo Flores
 abstract: Learn to create digital writing by hacking existing works or using AI to generate frameworks.
 description: >
-  Cyborg digital writing describes how human authors and their writing have become enmeshed with digital technologies, from spell checkers to generative AI. This primer offers two accessible approaches to producing digital literary works using HTML, CSS, and JavaScript. The first method involves hacking existing standalone digital works by downloading their source code, opening it in a text editor, and modifying the datasets and styling to create something new. The second method harnesses AI systems like ChatGPT or Claude to generate code frameworks based on natural language prompts, which can then be customized with your own content. Both approaches lower the barrier to creating generative, interactive, kinetic digital writing that goes beyond the limitations of the page. The primer emphasizes understanding the code you're working with, debugging techniques, proper attribution, and iterative development. Whether repurposing Nick Montfort's "Taroko Gorge" or prompting an AI to create a word-clicking interface, these methods invite writers to explore digital media's potential without requiring extensive programming expertise.
+ Please write 250 words or less summary
 genres:
   - Generative Poetry
 difficulty_pans: 1
 yields: >
-  HTML-based digital writing works that can be interactive, generative, or kinetic, ranging from simple word sequences to complex textual systems.
-github_link: https://iloveepoetry.org/creative/sequence.html
+  Please write 50 words or less for yield
+github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/cyborg-digital-writing.md
 ---
 
-## Ingredients
+# A Cyborg Digital Writing Primer
 
-- Web browser with internet connection
-- Text editor (Visual Studio Code recommended: https://code.visualstudio.com/)
-- For hacking: an existing HTML-based digital work
-- For AI generation: access to ChatGPT, Claude, or Gemini
-- Basic familiarity with HTML, CSS, and JavaScript (helpful but not required)
+## Leonardo Flores Professor and Chair, Department of English Appalachian State University
 
-## Method
+**Category: Digital Poetry**  
+**Class of E-Lit:**  E-Poetry  
+**Required ingredients:**  
+Web browser and internet connection  
+Text editor  
+**Preparation and cooking time:** under an  hour  
+**Rating: 🍳** one pan, easy
 
-### Approach 1: How to Hack a Digital Work
+## **Background:**
 
-**Step 1: Select a Work**
+**Cyborg digital writing** describes how both human authors and their writing have become enmeshed with digital technologies. Here are some related terms to contextualize.
 
-Choose any standalone work using HTML (not using external libraries). Recommended works:
-- Leonardo Flores' Generative Template: http://iloveepoetry.org/creative/floresgenerativetemplate.html
-- Nick Montfort's "Taroko Gorge": https://nickm.com/taroko_gorge/original.html
-- Nick Montfort's "The Two": https://nickm.com/2/the_two.html
-- Alison Knowles & James Tenney's "A House of Dust" (reimplemented by Nick Montfort): https://nickm.com/memslam/a_house_of_dust.html
-- Any works from Taper: https://taper.badquar.to/
+* **Cyborg writing** refers to how our own writing is increasingly shaped by digital writing technologies such as spell and grammar checkers, predictive keyboards and suggested texts, generative AI, and bespoke engines for text generation. Cyborg writing can result in writing designed for the page (printed or virtual) or in digital writing.  
+* **Digital writing** refers to *writing* that embraces the potential digital media offers to produce generative, interactive, multimodal, kinetic, hypertextual, textual works that engage digital culture to go beyond the limitations of the page (printed or virtual).  
+* **Electronic literature** is *literary* digital writing. As an older term in the field, it includes practices that aren’t strictly digital writing, such as sound and video poetry in which language is not presented in written form.
 
-**Step 2: Save the File**
+This primer will show two approaches to produce cyborg digital writing, first by showing how to hack an existing work of digital writing to produce a new one, and then by showing how to use AI to generate code to produce a new framework for digital writing.
 
-Open the work in your browser and save it as an HTML file on your computer (smartphones and tablets not recommended).
+## **How to Hack a Digital Work:**
 
-**Step 3: Open in Editor**
+**Direections: t**he first step is to select any standalone work (that is, not using external libraries) using Hypertext Markup Language (HTML), or one of the recommended ones below:
 
-Open the saved file with a code or text editor like Visual Studio Code.
+* [Leonardo Flores’ Generative Template](http://iloveepoetry.org/creative/floresgenerativetemplate.html) by Leonardo Flores http://iloveepoetry.org/creative/floresgenerativetemplate.html  
+* [Taroko Gorge](https://nickm.com/taroko_gorge/original.html) by Nick Montfort  
+  [https://nickm.com/taroko\_gorge/original.html](https://nickm.com/taroko_gorge/original.html)  
+* [The Two](https://nickm.com/2/the_two.html) by Nick Montfort  
+  [https://nickm.com/2/the\_two.html](https://nickm.com/2/the_two.html)  
+* [A House of Dust](https://nickm.com/memslam/a_house_of_dust.html) by Alison Knowles and James Tenney (reimplemented by Nick Montfort)  
+  [https://nickm.com/memslam/a\_house\_of\_dust.html](https://nickm.com/memslam/a_house_of_dust.html)  
+* Any of the works published in [*Taper*](https://taper.badquar.to/).
 
-**Step 4: Set Up Live Preview**
+  https://taper.badquar.to/
 
-Open the same saved file in a browser. Whenever you make changes in the editor, save the file and reload the browser to see the changes.
+### **Process:**
 
-**Step 5: Modify the Code**
+1. Open the work, linked to above in your browser, and save it as an HTML file in your computer (smartphones and tablets are not recommended for this).  
+2. Open the saved file with a code or text editor (I recommend [Visual Studio Code](https://code.visualstudio.com/)):  
+   https://code.visualstudio.com/  
+3. Open the same saved file in a browser. Whenever you make changes to the original file, save it in the editor, and reload it in the browser to see the changes.  
+4. Modify the code as you see fit, being careful not to break it by missing a comma, quotation mark, semicolon, etc. Take small steps in changing datasets.  
+5. When you’re satisfied with the text the work is generating, give it a title, modify the aspects of the source code that display your title and name, modify the style sheet as you see fit, and rename the file as something that is yours. I recommend writing an artist’s statement in the source code documentation in which you credit the original work and any AI systems you used to assist in coding.
 
-Modify the code carefully, avoiding breaking it by missing commas, quotation marks, or semicolons. Take small steps in changing datasets.
+If the code breaks you have some options for debugging:
 
-**Step 6: Finalize**
+* See if the code editor identifies the problem by making the line number red.  
+* Open the developer tools in your browser and look for the error messages, which will tell you where the problems are by line and space number.  
+* Copy paste your code into the AI system and ask it to fix it. Describe the problem in your prompt.  
+* Use undo (Control/Command \+ z) until you get to an earlier version of your document that works.
 
-When satisfied:
-- Give your work a title
-- Modify aspects displaying your title and name
-- Adjust the stylesheet
-- Rename the file
-- Write an artist's statement in the source code documentation crediting the original work and any AI assistance
+## **How to use AI to create a digital work:**
 
-**Debugging Options:**
-- Check if the code editor identifies problems with red line numbers
-- Open developer tools in your browser to see error messages with line numbers
-- Copy-paste code into an AI system and ask it to fix it
-- Use undo (Control/Command + Z) to revert to a working version
+AI can significantly reduce the access barrier to creating new frameworks for digital writing, but you do need to know some programming basics and a general familiarity with the conventions of the programming language you will use and debugging tools. For the purposes of this exercise, I will focus on HTML (including CSS and JavaScript).
 
-### Approach 2: How to Use AI to Create a Digital Work
+### **Preparation:**
 
-**Preparation**
+Before you start prompting, think of what framework for digital writing you would like to create. Here’s an example I will illustrate after describing the process:
 
-Before prompting, conceptualize your framework. Example concept:
-"A word appears centered on screen. When the user touches it, it changes to a different word, allowing you to write a sequence that completes a sentence, tells a story, or delivers a poem."
+A word (or phrase or poetic line) appears in the middle of the screen. When the user touches it, it changes to a different word. This allows you to write a sequence of words that can complete a sentence, tell a story, or deliver a poem.
 
-**Process**
+### **Process:**
 
-1. Create a new document in your code editor with a simple lowercase name ending in `.html` (e.g., `sequence.html`)
+1. Create a new document with a code editor (I recommend [Visual Studio Code](https://code.visualstudio.com/) \- https://code.visualstudio.com/) and give it a simple name in lower case, followed by the suffix .html (such as sequence.html).  
+2. Open Chat GPT ([https://chat.openai.com/](https://chat.openai.com/)), Claude ([https://claude.ai](https://claude.ai)), Gemini ([https://gemini.google.com](https://gemini.google.com)) or AI system of choice.  
+3. Prompt the AI to generate HTML code to produce the results you want, starting with a simple yet descriptive prompt.  
+4. Copy-paste the generated code into your document.  
+5. Save the document and then open (or reload) in your browser to see the results.  
+6. If you don’t like the results or would like to modify them, repeat steps 3-5.  
+7. Once you’re happy with the “engine.” Modify the code directly in your editor so that it says what you want it to say. Repeat step 5 after each modification.
 
-2. Open ChatGPT (https://chat.openai.com/), Claude (https://claude.ai), or Gemini (https://gemini.google.com)
+If the code breaks you have some options for debugging:
 
-3. Prompt the AI to generate HTML code with a simple yet descriptive prompt
+* See if the code editor identifies the problem by making the line number red.  
+* Open the developer tools in your browser and look for the error messages, which will tell you where the problems are by line and space number.  
+* Copy paste your code into the AI system and ask it to fix it. Describe the problem in your prompt.  
+* Use undo (Control/Command \+ z) until you get to an earlier version of your document that works.
 
-4. Copy-paste the generated code into your document
+If the code becomes too long for the AI to read, focus on the portions you want to modify, such as the script, style (CSS or Cascading Stylesheets), header, etc. Be sure to only copy-paste the sections you wish to modify.
 
-5. Save the document and open (or reload) in your browser to see results
+### **Example:**
 
-6. If you want modifications, repeat steps 3-5
+Prompt: “Generate HTML code to produce a page in which there’s a word centered on the screen. When the user clicks or touches the word, it changes to the next word in a sequence of 10 words. Use lorem ipsum text for the words.”
 
-7. Once happy with the "engine," modify the code directly in your editor to say what you want
+Here’s the output produced by ChatGPT 4o.
 
-**Example Prompt:**
-"Generate HTML code to produce a page in which there's a word centered on the screen. When the user clicks or touches the word, it changes to the next word in a sequence of 10 words. Use lorem ipsum text for the words."
+```html
+<!DOCTYPE html>
+ <html lang=”en”>
+ <head>
+ <meta charset=”UTF-8″>
+ <meta name=”viewport” content=”width=device-width, initial-scale=1.0″>
+ <title>Word Sequence</title>
+ <style>
+ body, html {
+ height: 100%;
+ margin: 0;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ font-family: Arial, sans-serif;
+ background-color: #f0f0f0;
+ }
+ #word {
+ font-size: 2em;
+ cursor: pointer;
+ }
+ </style>
+ </head>
+ <body>
+ <div id=”word”>Lorem</div>
+ <script>
+ const words = [“Lorem”, “Ipsum”, “Dolor”, “Sit”, “Amet”, “Consectetur”, “Adipiscing”, “Elit”, “Integer”, “Nec”];
+ let currentIndex = 0;
+document.getElementById(“word”).addEventListener(“click”, () => {
+ currentIndex = (currentIndex + 1) % words.length;
+ document.getElementById(“word”).textContent = words[currentIndex];
+ });
+ </script>
+ </body>
+ </html>
+```
 
-**Customizing the Generated Code**
+Notice that the lorem ipsum text is in the line that begins with the initial word in the “div” and then the sequence in the “const words.” If you modify that text and save it, it will produce the sequence of words or phrases you write. Here’s my modification.
 
-After AI generates the framework, find the dataset (often in a line like `const words = [...]`) and replace with your own words or phrases.
+```html
+<body\>  
+ <div id=”word”\>Cyborg Digital Writing\</div\>  
+ <script\>const words \= \[“I”, “love”, “creating”, “new”, “frameworks”, “for”, “digital”, “writing.”, “Don’t”, “you?”\];
+```
 
-**Final Touches:**
-- Change the title in `<title>Your Title</title>`
-- Add documentation with copyright notice and credits
-- Consider using the MIT license for open sharing
+When you save the work, it works, but with the current configuration, the first click will begin displaying the word “love” instead of “I”.
 
-**Debugging Options:**
-Same as Approach 1, plus:
-- If code becomes too long for AI, focus on specific sections (script, CSS, header, etc.)
-- Copy-paste only the sections you wish to modify
+A simple way to correct it is to prompt the AI with the following: “Make it so the first click goes to the first word in the words sequence in this code: \[copy-paste the complete code\].” And that fixes it\! This is a simple way to use natural language in an AI system to generate functional code. However, be sure to take a moment to read the code and begin to learn how it operates.
 
-## Notes
+And these are the first steps towards increasing your code literacy and creating new frameworks for digital writing using AI systems.
 
-### Understanding Cyborg Writing Terms
+Some final touches:
 
-- **Cyborg writing**: Writing shaped by digital technologies (spell checkers, predictive keyboards, generative AI, text generation engines)
-- **Digital writing**: Writing that embraces digital media's potential (generative, interactive, multimodal, kinetic, hypertextual works)
-- **Electronic literature**: Literary digital writing, including practices beyond written text (sound poetry, video poetry)
+* Change the title for the piece by modifying the line “\<title\>Word Sequence\</title\>” to whatever title you want to give it (I’m changing it to “Cyborg Digital Writing”).  
+* Add some documentation to give credit where credit is due by inserting the following code in a new line after the title tag and modifying it with your details. (Note that I have included a short version of the MIT license \- https://opensource.org/license/mit):
 
-### Development Tips
+```html
+<!– “Cyborg Digital Writing” Copyright (c) 2024 Leonardo Flores
+Copying and distribution of this file, with or without modification, are permitted in any medium without royalty provided the copyright notice and this notice are preserved. This file is offered as-is, without any warranty.
+This is a minimalist digital writing framework created on June 24, 2024 by Leonardo Flores using ChatGPT 4o.
+–>
+```
 
-**Add features one at a time** and work iteratively until each functions as desired before adding another.
+* Here’s a link to the work \- https://iloveepoetry.org/creative/sequence.html:  
+* Now, play with this simple code and develop it in a variety of ways, such as:  
+  * Randomize the sequence of words.  
+  * Have the click affect the font size, so the words are larger, smaller, or randomly sized.  
+  * Make the word’s color or background color (or both) change with every click.  
+  * Make the words appear in a random location on the screen with every click.  
+  * Make the user be able to drag the words.  
+  * Make the words move in a random direction and fly off screen, or bounce when it hits the edges.  
+  * While you’re at it, make the words accumulate so the whole phrase is on screen.  
+  * Make the words grow or shrink in size over time and or fade.  
+  * Do whatever else you can think of.  
+* Final advice: add one feature at a time and work on it iteratively until it functions as desired before adding another feature.
 
-**Possible enhancements for the word sequence example:**
-- Randomize the sequence of words
-- Change font size with each click
-- Alter word color or background color
-- Make words appear in random locations
-- Enable dragging words
-- Make words move in random directions or bounce off edges
-- Accumulate words so the whole phrase appears on screen
-- Make words grow, shrink, or fade over time
+You are ready. Now go have fun creating new digital works\!
 
-### Attribution and Ethics
-
-Always credit:
-- The original work you're hacking (with URL)
-- AI systems used for code generation or debugging
-- Any code libraries or frameworks employed
-
-### Further Reading
-
-Example work created with this method: https://iloveepoetry.org/creative/sequence.html
-
-For AI-generated code, document the process in HTML comments within your source code, including:
-- Date of creation
-- AI system used (e.g., "ChatGPT 4o")
-- Your role as author/curator
-- Copyright and licensing information
