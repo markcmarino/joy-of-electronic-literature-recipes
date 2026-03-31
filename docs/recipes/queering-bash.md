@@ -3,12 +3,13 @@ title: Queering Bash Love Poems as Recipes
 chef: Winnie Soon and Mara Karagianni
 abstract: Create electronic poetry using Bash terminal commands that transform code into love letters and feelings.
 description: >
-  Please write 250 words or less description
+ "Queering Bash" transforms Bash scripting into queer love letters and poetry, resisting Big Tech cloud abstractions. This recipe discusses Bash basics (loops, conditionals, echoing) through guided syntax examples, then invites custom love poems blending code with resilience and desire.
+The process critiques tech power imbalances and gender gaps, fostering community through "computing otherwise." Participants create commands to evoke intimacy beyond profit-driven processes, queering technical histories and challenging normative tech narratives.  
 genres:
   - Generative Poetry
 difficulty_pans: 1
 yields: >
-  Please write 50 words or less of yield
+ A queer love poem in Bash—generative scripts using loops and conditionals to create infinite variations of affective love letters in the terminal. 
 github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/queering-bash.md
 ---
 # Queering Bash: Love Poems, as Recipes
@@ -21,7 +22,7 @@ University College London (UCL)
 
 Mara Karagianni  
 Assistant Professor in Digital Arts (artist, software developer & technologist)  
-École de Recherche Graphique (ERG)
+École de Recherche Graphique (ERG), Brussels
 
 **Class of E-lit:** E-Poetry  
 **Dish:** a simple starter for electronic poetry  
@@ -33,7 +34,7 @@ Assistant Professor in Digital Arts (artist, software developer & technologist)
 # **Background:** 
 
 ## **Understanding Bash kitchen**  
-Bash, created in 1989, is the acronym of “Bourne Again Shell”– a pun on its proprietary predecessor Bourne shell–. A shell, known also as a computer terminal, console window or Command Line Interface (CLI), serves as the scripting language for navigating the computer’s filesystem, and automating tasks such as writing system logs, scheduling backups, and updating certificates. Unlike Graphical User Interfaces (GUI), the terminal is a text-based interface where users type commands like echo "hello world" to instruct the system directly—unlocking powerful capabilities often hidden from the GUI. Bash is accessible via the terminal, and it belongs to a lineage of Unix shells starting in 1971, which continues to grow today with glamorous styled shells such as the Charm ([https://charm.sh/](https://charm.sh/)). 
+Bash, created in 1989, is the acronym of “Bourne Again Shell”– a pun on its proprietary predecessor Bourne shell–. A shell, known also as a computer terminal, console window or Command Line Interface (CLI), serves as the scripting language for navigating the computer’s filesystem, and automating tasks such as writing system logs, scheduling backups, and updating certificates. Unlike Graphical User Interfaces (GUI), the terminal is a text-based interface where users type commands like echo `hello world` to instruct the system directly—unlocking powerful capabilities often hidden from the GUI. Bash is accessible via the terminal, and it belongs to a lineage of Unix shells starting in 1971, which continues to grow today with glamorous styled shells such as the Charm ([https://charm.sh/](https://charm.sh/)). 
 
 Bash outshines at automating recipes for system administrators, from prepping servers to cultivating safety habits, making it an essential tool in the daily tasks of Unix systems (a multi-user computer operating systems, whose development started in 1969\) like Linux and MacOS, with ports available for Windows as well. But the kitchen setting is changing. As tech oligopolies like Amazon Web Services (AWS) roll out their proprietary appliances in mass, such as browser based dashboards and cloud based applications, the role and the skillset of the system administrator is shifting (Soon & Karagianni). 
 
@@ -41,11 +42,21 @@ Whereas a terminal-based system administrator would work with bash recipes, pipi
 
 ## **Queering Bash kitchen**  
 This *Bash kitchen* embraces the poetics of code—generative, evolving, ephemeral poems served as tasters—that explore the interplay between love language and machine logic. A queer bash kitchen highlights the potential of computation not just as a tool of efficiency, but as a site of vulnerability, ambivalence, creative (and culinary) subversion.  
-We reflect:  
+Layered throughout are echoes from conversations:  
+
+*"everyday working with the terminal, male-centric language/syntax..."*  
+
+*"love for code, and coding as a way to convey love… maintaining the server, diving deep into the CLI, unsurfacing the machine, desiring to know the body—of a feminist server, of a lover—peeling back the GUI."*  
+
+"Coding otherwise."  
+(Mara and Winnie)
+
+Reading together, we reflect:  
 *"Queering is, thus, understood as specific appearance, gathering, performing, as a disturbance of order."* (Götz 18\)  
+
 *"\[Q\]ueer spaces per se do not exist, neither do queer things \- it is their use that makes them potentially queer spaces of things"* (Götz 18\)
 
-## **From the Chef:**   
+## **From the Chefs:**   
 **Ingredients for a shimmering Queer Love Poem**  
 **a. Elegance**  
 Write code that does one thing—  
@@ -84,20 +95,21 @@ The name before the “@” symbol is our username, and the name after is the ma
 Commands are built-in keywords that allow us to navigate our computer through text. For example, we can type 'pwd' (print working directory) to reveal our current location within the filesystem’s hierarchy. By default, the terminal opens in our home directory, such as:
 
 ```bash
-queer@joy:~$ pwd
-/home/queer
+pwd
+```
+Terminal should output something in line of home / username, e.g `/home/queer`
 ```
 
 If we want to make a new recipe, we can create a new directory using the 'mkdir' (make directory) command. 
 
 ```bash
-queer@joy:~$ mkdir queerkitchen
+mkdir queerkitchen
 ```
 
 Boom—our **queerkitchen** should now appear at the bottom of the list, freshly created\! To enter the queer kitchen, type:
 
 ```bash
-queer@joy:~$ cd queerkitchen
+cd queerkitchen
 ```
 
    
@@ -116,44 +128,44 @@ do
   sleep 0.2
 done
 ```
+*The source code of infinite missing*
 
-The source code of infinite missing  
 **Chopping together \- step by step**  
+![Drawing of the loop logic](../images/queer-bashing/drawing_missing.png)
+*Drawing of the loop logic*
+
 **Step 1:** Create your love letter  
-Open a new file in the terminal with the ‘nano’ command (or ‘edit’ in Windows: https://learn.microsoft.com/en-us/windows/edit/), which is calling a terminal based text editor:
+Open a new file in the terminal with the `nano` command (or `edit` in Windows: https://learn.microsoft.com/en-us/windows/edit/), which is calling a terminal based text editor:
 
 ```bash
-queer@joy:~$ nano infinite_missing.sh
+nano infinite_missing.sh
 ```
 
-	**Step 2:** Write your feeling  
- 	Inside the file, type:  
-	
+**Step 2:** Write your feeling  
+Inside the file, type:  
 
 ```bash
-echo “I miss you so much”
+echo "I miss you so much"
 ```
 
-**Step 3:** Save the message  
+**Step 3:** Save the feeling  
 Press ctrl/cmd \+ X, then type Y, and hit Enter to save and exit.
 
 **Step 4:** Read it aloud (via Bash)  
-	Back in the terminal, run:  
+Back in the terminal, run:  
 	
 ```bash
 queer@joy:~$ bash infinite_missing.sh
 ```
+You'll see your feeling—simple, direct, like the first line of a love poem.
 
-	 You'll see your message—simple, direct, like the first line of a love poem.
-
-	**Step 5:** Make it linger  
-	Let’s now echo this line forever—a loop of longing. Edit the file again:
+**Step 5:** Make it linger  
+Let's now echo this line forever—a loop of longing. Edit the file again:
 
 ```bash
-queer@joy:~$ nano missing.sh
+nano missing.sh
 ```
-
-	Replace the content with:  
+Replace the content with:  
 	
 ```bash
 while true:
@@ -172,7 +184,7 @@ Let's stretch the "so" with each repetition:
 ```bash
 while true:
  do
-    so+= “so ”
+    so+= "so "
     echo I miss you $so much
     sleep 0.2
   done
@@ -181,7 +193,7 @@ while true:
 
 Now the longing builds—"so so so much"—growing with every loop, like a feeling that keeps returning, never quite still. With each line printed to the terminal, the expression expands.
 
-In Bash, variables are called by placing a $ in front of their name. The \+ sign adds to what was already there—so each time the loop runs, another “so” is appended, layering the sentiment line by line.
+In Bash, variables are called by placing a `$` in front of their name. The `+` sign adds to what was already there—so each time the loop runs, another `so` is appended, layering the sentiment line by line.
 
 **Step 7:** Queerring poetics  
 Change the loop's logic to something tender.
@@ -190,7 +202,7 @@ Change the loop's logic to something tender.
 love=true
 while $love:
   do
-    so+= “so ”
+    so+="so "
     echo I miss you $so much
     sleep 0.2
   done
@@ -199,10 +211,10 @@ while $love:
 We begin to rewrite the logic of longing: 
 
 * We have assigned the true value to something queer—a variable named love.  
-* We can call these variables everywhere else in our code. So the loop now changes from while true to while $love, but executes in the same way, as a while true  statement.
+* We can call these variables everywhere else in our code. So the loop now changes from `while true` to `while $love`, but executes in the same way, as a `while true` statement.
 
 
-  **Step 8:** Becoming a piece of codework
+**Step 8:** Becoming a piece of codework
 
 ```bash
 while $love
@@ -216,25 +228,24 @@ done
 ```
 
     
-  Moreover, the true statement doesn’t need to be explicitly defined; in Bash, any variable—even if undeclared—will still evaluate as true in a loop condition, as long as it is not assigned to null or an empty string. To deepen the expression of missing, we introduce another variable, how, and use it to echo the intensity. But soon, we notice a rush of words—*sososososo...*—with no room to breathe. Therefore, we place the variable inside quotes and add a space: "so ". Since Bash requires curly brackets ${how} when referencing a variable inside quotes, we adjust accordingly.
+Moreover, the true statement doesn’t need to be explicitly defined; in Bash, any variable—even if undeclared—will still evaluate as true in a loop condition, as long as it is not assigned to null or an empty string. To deepen the expression of missing, we introduce another variable, `how`, and use it to echo the intensity. But soon, we notice a rush of words—*sososososo...*—with no room to breathe. Therefore, we place the variable inside quotes and add a space: `"so "`. Since Bash requires curly brackets `${how}` when referencing a variable inside quotes, we adjust accordingly.
 
     
-  You’ve replaced true with love, and *incremented* longing in a loop. The syntax becomes poetry: repetition as rhythm, code as confession.
+You’ve replaced `true` with `love`, and *incremented* longing in a loop. The syntax becomes poetry: repetition as rhythm, code as confession.
 
 **Variations and Related recipes:**  
 Compose your own language poem by replacing the variable names and crafting the output text:
 
 For example:
 
-1. change while $love to while $hot  
-2. change echo I miss you $so much to echo I want you $so badly  
+1. change `while $love` to `while $hot`  
+2. change `echo I miss you $so much` to `echo I want you $so badly`  
    See other dishes cooked in the Queer Bash Kitchen: [https://git.systerserver.net/systerserver/queering-bash](https://git.systerserver.net/systerserver/queering-bash)
 
 **References:**  
-Charm. *Charm\_We Make the Command Line Glamorous*, [https://charm.sh/](https://charm.sh/). Accessed 9 Nov. 2025\.  
-Götz, Magdalena. “Queering Practices: Uses of Digital Mobile Media in Queer/Feminist Art.” *CRC Media of Cooperation Working Paper Series*, no. 18, 2021, pp. 15–22. [http://piaer.net/wp-content/uploads/2021/07/Goetz\_2021\_Queering\_Practices\_in\_WPS\_18\_Practice.pdf](http://piaer.net/wp-content/uploads/2021/07/Goetz_2021_Queering_Practices_in_WPS_18_Practice.pdf). Accessed 9 Nov. 2025\.  
-Kaldrack, Irina, and Martina Leeker. “Introduction.” *There Is No Software, There Are Just Services*, edited by Irina Kaldrack and Martina Leeker, meson press, 2015, pp. 9–19. [https://meson.press/books/there-is-no-software-there-are-just-services/](https://meson.press/books/there-is-no-software-there-are-just-services/). Accessed 9 Nov. 2025\.  
-Raymond, Eric Steven. *The Art of Unix Programming.* Addison-Wesley Professional, 2003\. [http://www.catb.org/\~esr/writings/taoup/html/](http://www.catb.org/~esr/writings/taoup/html/). Accessed 9 Nov. 2025\.
-
-Soon, Winnie, and Mara Karagianni. *Queering Love Letters* \[Slide deck\]. HackMD, 2023, [https://hackmd.io/@siusoon/queeringbash2](https://hackmd.io/@siusoon/queeringbash2). Accessed 9 Nov. 2025\.
+- Charm. *Charm\_We Make the Command Line Glamorous*, [https://charm.sh/](https://charm.sh/). Accessed 9 Nov. 2025\.  
+- Götz, Magdalena. “Queering Practices: Uses of Digital Mobile Media in Queer/Feminist Art.” *CRC Media of Cooperation Working Paper Series*, no. 18, 2021, pp. 15–22. [http://piaer.net/wp-content/uploads/2021/07/Goetz\_2021\_Queering\_Practices\_in\_WPS\_18\_Practice.pdf](http://piaer.net/wp-content/uploads/2021/07/Goetz_2021_Queering_Practices_in_WPS_18_Practice.pdf). Accessed 9 Nov. 2025\.  
+- Kaldrack, Irina, and Martina Leeker. “Introduction.” *There Is No Software, There Are Just Services*, edited by Irina Kaldrack and Martina Leeker, meson press, 2015, pp. 9–19. [https://meson.press/books/there-is-no-software-there-are-just-services/](https://meson.press/books/there-is-no-software-there-are-just-services/). Accessed 9 Nov. 2025\.  
+- Raymond, Eric Steven. *The Art of Unix Programming.* Addison-Wesley Professional, 2003\. [http://www.catb.org/\~esr/writings/taoup/html/](http://www.catb.org/~esr/writings/taoup/html/). Accessed 9 Nov. 2025\.
+- Soon, Winnie, and Mara Karagianni. *Queering Love Letters* \[Slide deck\]. HackMD, 2023, [https://hackmd.io/@siusoon/queeringbash2](https://hackmd.io/@siusoon/queeringbash2). Accessed 9 Nov. 2025\.
 
