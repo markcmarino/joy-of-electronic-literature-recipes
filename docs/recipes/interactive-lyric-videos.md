@@ -1,21 +1,20 @@
 ---
 title: Interactive Lyric Videos with Stepworks
 chef: Erik Loyer
-abstract: Two recipes for creating syllable-accurate lyric videos performable live
+abstract: Two recipes for creating syllable-accurate lyric videos that can be performed live
   using Stepworks and Google Sheets, for single and multiple vocalists.
 description: >
-  [Please insert 250 words or less description]
+  “Interactive Lyric Videos with Stepworks” is a recipe for creating syllable-accurate lyric videos you can perform live. It teaches how to convert the words of any song into a machine-readable form that can be synchronized with music. Lyric videos can feel magical in the way they make words seem like physical objects emitted by the act of singing; the interactive lyric video takes that one step further, by making your key presses trigger individual syllables on the screen in real time. When performed in sync with the music, it can feel as if you are pushing the song along through your actions! The approach involves breaking the lyrics for a song down into syllables and arranging them in a Google Sheets spreadsheet. The spreadsheet is then loaded into an artist-created tool called Stepworks for performance. For readers looking for a challenge, a second, multi-vocalist recipe is included, which was used by fans of “Hamilton” to create elaborate lyric videos for their favorite songs from the popular musical.
 genres:
   - Performance/Experience
   - Word Manipulation
 custom_genres:
   - Lyric video
   - Typographic animation
-difficulty_pans: 2
+difficulty_pans: 1
 yields: >
-  One or two interactive lyric videos performable live in time with music,
-  syllable by syllable, using a spreadsheet score and the Stepworks tool as a
-  rhythmic text instrument.
+  One or two interactive lyric videos for live, syllable-by-syllable performance in time with music,
+  using a spreadsheet score and the Stepworks tool as a rhythmic text instrument.
 github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/interactive-lyric-videos.md?plain=1)
 ---
 # Interactive Lyric Videos with Stepworks 
