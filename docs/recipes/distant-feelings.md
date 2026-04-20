@@ -2,14 +2,12 @@
 title: Distant Feeling(s)
 chef: Annie Abrahams
 abstract: A silent telematic ritual in which participants close their eyes over videoconference for fifteen minutes, exploring presence and togetherness across distance.
-description: >-
-Distant Feeling(s) is a telematic performance and recurring ritual co-founded by Annie Abrahams and Daniel Pinheiro in 2015. Participants gather via videoconference, then close their eyes for fifteen minutes of shared silence, cameras and microphones left on.
-
-Without the ability to see one another, the shared sound environment — each participant's home noise mixing with others, all altered by the compression algorithms of the videoconferencing tool — becomes the common space.
-The session is recorded and made available to participants afterward.
-The piece operates against the dominant modes of digital interaction: productivity, immediacy, and surveillance. It trains what the artists call being together "with" — a meditative practice of co-presence that counters online restlessness and alienation.
-
-From Distant Feeling(s) grew two related practices: Utterings, which adds vocalization while blindfolded; and Distant Movements, which introduces guided embodied dance in front of a screen with eyes closed. Together they form a practice of attentive online presence.
+description: |
+  Distant Feeling(s) is a telematic performance and recurring ritual co-founded by Annie Abrahams and Daniel Pinheiro in 2015. Participants gather via videoconference, then close their eyes for fifteen minutes of shared silence, cameras and microphones left on.
+  Without the ability to see one another, the shared sound environment — each participant's home noise mixing with others, all altered by the compression algorithms of the videoconferencing tool — becomes the common space.
+  The session is recorded and made available to participants afterward.
+  The piece operates against the dominant modes of digital interaction: productivity, immediacy, and surveillance. It trains what the artists call being together "with" — a meditative practice of co-presence that counters online restlessness and alienation.
+  From Distant Feeling(s) grew two related practices: Utterings, which adds vocalization while blindfolded; and Distant Movements, which introduces guided embodied dance in front of a screen with eyes closed. Together they form a practice of attentive online presence.
 genres:
   - Performance/Experience
 custom_genres:
