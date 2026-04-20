@@ -3,13 +3,12 @@ title: Full Words Ramble
 chef: Daniel C. Howe, John Cayley
 abstract: A browser text that continuously replaces its own words with rhymes and
   sound-alikes, rambling away from source prose before wandering back again.
-description: [Please write 250 words or less]
+description: Recipes for rambles (think of them like fruit crumbles, with an even greater range of fine-grained flavor palettes) usually have prose as their main ingredient and we’ve given you, here, a shortened version of the convoluted, rambling piece that we used to develop the recipe. It was Chef Howe who first started using functions from the RiTa library to find and replace words according to various criteria for similarity. Here, replacements can rhyme, ‘look-like’ (in terms of spelling) or ‘sound-like’ (in terms of phonemes). Replacements are chosen so as to occupy the same part of speech as the word being replaced. Rambles can be made to ramble forever, or else, at a certain point, to return. Returning rambles record a history of where they have been and then wander back in a shuffling order toward their textual starting point.
 genres:
   - Word Manipulation
   - Generative Poetry
 difficulty_pans: 2
-yields: >
-  50-words or less yield
+yields: One or two paragraphs of fulsome, textured, browser-readable language; a ramble from word choice to word choice along all but numberless combinations of pathways.
 github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/full-words-ramble.md
 ---
 # Full Words Ramble
