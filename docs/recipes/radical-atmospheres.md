@@ -1,20 +1,20 @@
 ---
-  title: Radical Atmospheres
-  chef: Andrew Demirjian
-  abstract: Reorganizing archival source texts using regular expressions and NLP to generate poetic material for audio augmented reality experiences.
-  description: |
-  Radical Atmospheres – Poetic Recipes for Audio Augmented Reality highlights the unique aesthetic and pragmatic considerations for producing audio-based locative electronic literature. This approach provides a method for computationally reshuffling a source text to see it’s language with fresh eyes and reveal patterns that may be obscured in the original text. It also provides a programmatic method for finding more instances of a pattern that has caught the users attention. The recipe teaches the reader how to use regular expressions, and the concordance functionality of the RiTa JavaScript library for text analysis within a P5.JS programming environment. The recipe also contains a list of recommended practices for turning your text output into audio.
+title: Radical Atmospheres
+chef: Andrew Demirjian
+abstract: Reorganizing archival source texts using regular expressions and NLP to generate poetic material for audio augmented reality experiences.
+description: |
+  Radical Atmospheres – Poetic Recipes for Audio Augmented Reality highlights the unique aesthetic and pragmatic considerations for producing audio-based locative electronic literature. This approach provides a method for computationally reshuffling a source text to see its language with fresh eyes and reveal patterns that may be obscured in the original text. It also provides a programmatic method for finding more instances of a pattern that has caught the users attention. The recipe teaches the reader how to use regular expressions, and the concordance functionality of the RiTa JavaScript library for text analysis within a P5.JS programming environment. The recipe also contains a list of recommended practices for turning your text output into audio.
   
   The affordances of Audio Augmented Reality are discussed through Radical Atmospheres, a walking tour app of Puerto Rican radical activism in East Harlem that features experimental sound collage poems and oral history interviews collaboratively created by Integrated Media Arts MFA students at Hunter College, CUNY.
-  genres:
+genres:
     - Audio
     - Augmented Reality
-  custom_genres:
+custom_genres:
     - Audio AR
     - Archival poetics
-  difficulty_pans: 1
-  yields: The program yields alphabetically reshuffled sentences of a source text and key words in-context based on the user’s input. It also suggests methods for turning this output into a sonically compelling locative experience.
-  github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/radical-atmospheres.md
+difficulty_pans: 1
+yields: The program yields alphabetically reshuffled sentences of a source text and key words in-context based on the user’s input. It also suggests methods for turning this output into a sonically compelling locative experience.
+github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/radical-atmospheres.md
 ---
 
 						\_\_\_
