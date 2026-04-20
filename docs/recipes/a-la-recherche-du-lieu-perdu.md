@@ -1,14 +1,16 @@
 ---
 title: À la recherche du lieu perdu
 chef: Chris Klimas
-abstract: A Twine recipe for recreating a place from memory as an explorable hypertext space, without plot or character decisions—just space.
+abstract: A Twine recipe for recreating a place from memory as an explorable hypertext space, without plot or character—just setting.
 description: > 
-    Please write 250 words
+    An invitation to make an interactive recreation of a place that is meaningful to you in some way, but is no longer accessible. This could be a restaurant that closed years ago, a vacation spot last visited a decade ago, the auditorium where a high school graduation took place—anything that is personally resonant.
+
+    This recipe invites you to build this space in text iteratively, beginning with physical descriptions of the space and layering in sensory detail. The result is explicitly plotless. The goal is to allow you to revisit this place in your imagination and allow others to experience it too. The recipe concludes with ideas on how to expand upon this: making time pass with some programming, or placing a hidden object in the space.
 genres: >
   - Hypertext
 difficulty_pans: 1
 yields: >
-  Add 50-words or less yields
+  An interactive recreation of a place from memory.
 github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/a-la-recherche-du-lieu-perdu.md)
 ---
 
