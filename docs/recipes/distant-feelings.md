@@ -4,7 +4,11 @@ chef: Annie Abrahams
 abstract: A silent telematic ritual in which participants close their eyes over
   videoconference for fifteen minutes, exploring presence and togetherness across distance.
 description: >
-    [Write Description in under 250 words to go here.]
+    Distant Feeling(s) is a telematic performance and recurring ritual co-founded by Annie Abrahams and Daniel Pinheiro in 2015. Participants gather via videoconference, then close their eyes for fifteen minutes of shared silence, cameras and microphones left on.
+Without the ability to see one another, the shared sound environment — each participant's home noise mixing with others, all altered by the compression algorithms of the videoconferencing tool — becomes the common space.
+The session is recorded and made available to participants afterward.
+The piece operates against the dominant modes of digital interaction: productivity, immediacy, and surveillance. It trains what the artists call being together "with" — a meditative practice of co-presence that counters online restlessness and alienation.
+From Distant Feeling(s) grew two related practices: Utterings, which adds vocalization while blindfolded; and Distant Movements, which introduces guided embodied dance in front of a screen with eyes closed. Together they form a practice of attentive online presence.
 genres:
   - Performance/Experience
 custom_genres:
@@ -12,9 +16,7 @@ custom_genres:
   - Mindfulness practice
 difficulty_pans: 1
 yields: >
-  A shared recording of silent online co-presence, available to all participants
-  afterward, along with heightened awareness of bodily presence, connection, and
-  the sounds of disparate home environments merging across the network.
+  A heightened awareness of bodily presence, bridging differences and creating consciousness of kinship across the network. A shared recording of this silent online co-presence.
 github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/distant-feelings.md
 ---
 
