@@ -4,8 +4,11 @@ chef: Leonardo Flores
 abstract: Learn to create digital writing by hacking existing works or using AI to generate frameworks.
 description: |
   “A Cyborg Digital Writing Primer” introduces a practical approach to creating digital literature by combining human creativity with digital tools and AI systems. The concept of cyborg writing frames contemporary authorship as a collaboration between writers and technologies such as predictive text, grammar checkers, and generative AI. Within this context, the primer focuses on digital writing: works that use the affordances of digital media—such as generativity, interactivity, kinetic text, and hypertext—to move beyond the limitations of the printed page.
+  
   The primer presents two accessible, lightly interconnected, recipes for beginners. The first demonstrates how to hack an existing digital work written in standalone HTML. Participants download the source file of a generative or electronic literature piece, open it in a code editor, and experiment with modifying the datasets, styles, and textual outputs. Through small, iterative edits and testing in a browser, writers learn how changes in code produce new literary results.
+  
   The second recipe introduces the use of generative AI to create simple frameworks for digital writing. By prompting an AI system to generate HTML, CSS, and JavaScript, writers can quickly produce interactive structures—such as a clickable word sequence—that serve as engines for poems, stories, or textual experiments. The primer also emphasizes basic debugging strategies and encourages participants to document their work and credit original sources and AI tools.
+  
   Designed for beginners and requiring minimal technical setup, the exercise promotes code literacy while demonstrating how hacking and AI-assisted coding can open new possibilities for creative digital writing.
 genres:
   - Generative Poetry
