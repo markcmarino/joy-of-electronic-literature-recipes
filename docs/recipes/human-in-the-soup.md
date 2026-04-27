@@ -4,23 +4,22 @@ chef: Andrew Klobucar
 abstract: Six electronically generated poems using PoemChef, exploring generative
   writing systems while keeping the human element central to the creative process.
 description: >
-  Write a description of under 250 words.
+  PoemChef is an interactive application written in TypeScript and React 18 with a CSS injection pattern layered on top that describes a variety of culinary-themed poetry genres and themes. Chefs are invited to either prepare their own dishes in front of a live audience or add them as digital works for web presentations. A free verse tool has also been added to allow writers to change the generated text by adding new lines and co-create with the tool.  
 genres:
   - Generative Poetry
 custom_genres:
   - Cybertext
-  - Discourse plate
-  - Algorithmic poetry
+  - Discourse poetry plate
+  - Computational jive poetry coding 
 difficulty_pans: 2
 yields: >
-  Write what this yields in 50 words or less.
+  This application is designed for live readings and teaching digital poetry in the classroom, allowing writers to generate works from a set “menu” of 13 genres for audiences. The audience can be invited to make thematic or genre-based requests and co-present poetic work.
 github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/human-in-the-soup.md?plain=1)
 ---
 # **Human in the Soup: Literary Taste Designed as Ready-to-Read Six Poem Course Plate with an Easy Algorithmic Model and Directions**
 
 **Andrew Klobucar**  
-Associate Professor of Humanities (English) and Director of Communication and Media (Professional Communication)  
-New Jersey Institute of Technology
+Associate Professor of Humanities (Communication and Media Arts) ) New Jersey Institute of Technology
 
 **Class of Elit**: Text Generators  
 **Dish**: Ready-to-read six-poem course plate of electronic poetry  
