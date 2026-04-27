@@ -3,14 +3,14 @@ title: Chatting in the Funhouse
 chef: John McDaid
 abstract: Build a no-code GPT chatbot tuned to a literary corpus that generates dialogue in a fictional author's voice.
 description: >
- [Write 250 words or less description]
+ "Chatting in the Funhouse" is a recipe for building a custom GPT narrative collaborator tuned to the voice, style, and playfulness of a specific body of work — in this case, the fictional literary estate of Arthur "Buddy" Newkirk from Uncle Buddy's Phantom Funhouse (1993). The recipe teaches corpus curation as a creative act, the iterative shaping of emergent AI behavior, and exploration of the prompt as artistic engagement rather than functional query.
+ The Funhouse — an early hypermedia fiction that blurred the boundaries between artifact, author, and reader — turns out to be ideal source material for this kind of work. Building a GPT on Buddy's notebooks, songs, stories, and oracle cards extends the original work's core preoccupation: what does it mean to encounter a voice that is and isn't its author? The recipe situates this practice within a broader theoretical context, drawing on McLuhan's media ecology and Hayles's concept of nonconscious cognition to frame what custom LLMs actually do.
+ The approach involves assembling a diverse corpus of approximately 100,000 words — diversity of form matters as well as volume — uploading it with a set of persona instructions, and then engaging in sustained iterative sessions to shape the model's emergent behavior. This process is less like coding than like working in Vygotsky's zone of proximal development with an unusual kind of learner. The recipe can be adapted to any literary corpus, and outputs can serve as material for classroom exploration, generative performance, or ongoing creative collaboration.
 genres:
   - Human-computer collaboration
 difficulty_pans: 2
 yields: >
-  A custom ChatGPT model that embodies a fictional author's voice, enabling literary
-  exploration, classroom engagement, or generative narrative performance with a curated
-  LLM dialogue generator.
+  A customized GPT model that embodies a fictional author's voice, enabling literary exploration, classroom engagement, or generative narrative performance with a curated LLM dialogue generator.
 github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/chatting-in-the-funhouse.md?plain=1
 ---
 
