@@ -2,7 +2,7 @@
 title: Less-Thought - A General Art-Recipe for Joyous E-Lit
 chef: David Jhave Johnston
 abstract: Abstract recipe prioritizing spontaneous improvisation, intuition, and joy over conceptual planning when creating electronic literature.
-description:|
+description: >
 The "Less-Thought: a General Art-Recipe for Joyous E-Lit" prioritizes spontaneous improvisation, intuition, and joy over rigid conceptual planning when creating electronic literature (e-lit). This abstract general recipe suggests that powerful art-dishes emerge from "thoughtless improvs made from leftovers," believing that thinking less is effective. The author, David Jhave Johnston, developed this approach from his preference for spontaneous meals, applying it to his creative process in the rapidly evolving landscape of generative AI. The recipe outlines archetypal ingredients for creation: Mindset: Intuition, Joy, Spontaneity, Reverence, Play, and Relaxation. Practical Elements: Freshness (a new or newly emerged technology) and a Constraint (setting a limit, such as a ritual time). The method emphasizes beginning with authentic intuition, setting a harmless intention, selecting fresh tools, introducing a constraint to guide spontaneity, and letting the work evolve without critique or judgment. The ultimate message is simple: set aside thought, trust intuition, and play until the work begins, embracing a process where 'radical emptiness is a very effective teacher'. This approach is framed as a necessity for finding 'spontaneous compassionate joy amid anthropogenic extinction entropy'.
 genres:
   - Generative Poetry
