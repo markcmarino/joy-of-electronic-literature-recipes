@@ -3,12 +3,13 @@ title: Deformances
 chef: Monique Tschofen
 abstract: Use large language models to deform poetic texts, exposing cultural logic through experimental transformation.
 description: >
- Write 250 word or less description.
+ Deformances is a recipe that helps one engage more deeply with a text by getting the hands and countertop dirty. The term, an amalgam of deform and performance, from Lisa Samuels and Jerome McGann, describes an approach to understanding literature that builds on modernist and avant garde experiments such as collage, which reworked source texts to find other meanings in them. The recipe uses digital tools, including LLMs, and proceeds through the generation of "fields of experiment,” to expose some aspects of a text’s “possibilities of meaning.” Play is encouraged.  In the spirit of experimentation, the cook decides when the recipe is ready, or is a flop.     
+
 genres:
   - Generative Poetry
 difficulty_pans: 1
 yields: >
-  Write 50 words or less for recipe yield
+    One or more work that deforms another with word and image tracks + a critical introduction that can be hosted online. 
 github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/deformances.md
 ---
 
