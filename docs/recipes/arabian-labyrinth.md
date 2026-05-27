@@ -5,7 +5,7 @@ abstract: Create expansive text adventure locations using coordinate-based virtu
 description: >
     Inform 7 is a programming language for creating parser-based text adventures. The default paradigm for settings in such games is a web of connected "rooms," each representing a discrete location like a hallway, a garage, or a campsite. By introducing a coordinate system, a single "room" can be made to simulate a expansive explorable location: a vast swamp, an endless desert, or the surface of the moon.
 genres:
-  - Hypertext
+  - Interactive Fiction
 difficulty_pans: 4
 yields: >
     1 textual environment, functionally infinite in extent
