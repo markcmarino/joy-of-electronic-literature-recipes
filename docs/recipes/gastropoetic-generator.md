@@ -2,14 +2,21 @@
 title: Gastropoetic Generator
 chef: Talan Memmott, Scott Rettberg
 abstract: A limerick-form poetry generator that produces menus for real in-person feasts, blending constraint-based poetics with culinary performance.
-description: >
-   Write a description in under 250 words. 
+description: |
+   The Limerick Diet is a gastropoetic project by Scott Rettberg and Talan Memmott that merges constraint-based poetry generation with live culinary performance. Originating from conversations about the shared generative logic of cooking and electronic literature, the project uses the limerick's AABBA rhyme scheme and anapestic meter as a framework for producing both verse and actual recipes.
+   
+   The generator works as a slot-based system: arrays of locally sourced ingredients, preparation methods, herbs, sauces, and actors are randomly combined within limerick templates anchored to Irish place names. The result is simultaneously a poem and a dish description—a menu item that must actually be cooked and eaten. Sample outputs like "Dublin Lamb Parisienne" or "Galway Tofu Wellington" demonstrate how the constraints produce comic, occasionally surreal verse while still yielding coherent and delicious meals.
+   
+   The project has been performed in two formats. The Limerick Diet (2019) involves live generation during a cooking performance for a small group of diners, emphasizing artisanal quality and real-time improvisation. A notable performance was live-streamed from Cork, Ireland during the ELO2019 conference. Quarantine Quatrains (2020) adapted the model for distributed simultaneous cooking across locations, where multiple chefs interpreted the same generated menu differently—foregrounding cooking itself as an interpretive act analogous to reading.
+   
+   The code is simple HTML/JavaScript, intentionally accessible and extensible. The project's deeper argument is that generative constraint—the same principle underlying Oulipo—can produce genuine aesthetic and practical value, as well as play. The work is a joyfully shared repast.
+ 
 genres:
   - Generative Poetry
   - Performance/Experience
 difficulty_pans: 2
 yields: >
-  Write 50 words or less yields
+  The recipe in the example yields one protein-based course in a multi-course menu, however the model is highly extensible, potentially offering the development of a full tasting menu, along with some honestly mediocre but amusing poetry. In the prep, the chef learns some basic principles of combinatory poetics. 
 github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/gastropoetic-generator.md?plain=1)
 ---
 
