@@ -10,7 +10,7 @@ custom_genres:
   - Multiple Choice Poetry
 difficulty_pans: 1
 yields: >
-  1 poetic survey.
+  1 poetic survey critiquing the corporate-ware platform where it lives.
 github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/online-survey-poems.md
 ---
 # Online Survey Poems
