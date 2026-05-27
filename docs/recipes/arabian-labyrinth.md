@@ -3,12 +3,12 @@ title: The Arabian Labyrinth Technique
 chef: Ryan Veeder
 abstract: Create expansive text adventure locations using coordinate-based virtual space in Inform 7.
 description: >
-  Please write 250 words or less for Description
+    Inform 7 is a programming language for creating parser-based text adventures. The default paradigm for settings in such games is a web of connected "rooms," each representing a discrete location like a hallway, a garage, or a campsite. By introducing a coordinate system, a single "room" can be made to simulate a expansive explorable location: a vast swamp, an endless desert, or the surface of the moon.
 genres:
   - Hypertext
 difficulty_pans: 4
 yields: >
-  Please write 50 words or less for yield.
+    1 textual environment, functionally infinite in extent
 github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/arabian-labyrinth.md)
 ---
 
