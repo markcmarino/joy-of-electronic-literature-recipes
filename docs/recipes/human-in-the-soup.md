@@ -1,10 +1,9 @@
 ---
 title: Human in the Soup
 chef: Andrew Klobucar
-abstract: Six electronically generated poems using PoemChef, exploring generative
-  writing systems while keeping the human element central to the creative process.
+abstract: Six electronically generated poems using PoemChef, exploring generative writing systems while keeping the human element central to the creative process.
 description: >
-  PoemChef is an interactive application written in TypeScript and React 18 with a CSS injection pattern layered on top that describes a variety of culinary-themed poetry genres and themes. Chefs are invited to either prepare their own dishes in front of a live audience or add them as digital works for web presentations. A free verse tool has also been added to allow writers to change the generated text by adding new lines and co-create with the tool.  
+  PoemChef is an interactive application written in TypeScript and React 18 with a CSS injection pattern layered on top that describes a variety of culinary-themed poetry genres and themes. Chefs are invited to either prepare their own dishes in front of a live audience or add them as digital works for web presentations. A free verse tool has also been added to allow writers to change the generated text by adding new lines and co-create with the tool.    
 genres:
   - Generative Poetry
 custom_genres:
