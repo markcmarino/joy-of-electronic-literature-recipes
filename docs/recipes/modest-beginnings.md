@@ -1,14 +1,14 @@
 ---
 title: Modest Beginnings
 chef: Milagros Vilaplana
-abstract: Create animated kinetic poetry using Microsoft PowerPoint's Morph and Animation features for mixed media verse.
+abstract: Compose a digital poetry piece in the lettrist, concrete, and kinetic poetry traditions applying visual improvisations and animations in MS PowerPoint.
 description: >
-  Write your 250 words or less description
+  The recipe walks you through the preparation, development and editing phases of working with advanced animated features in MS PowerPoint to produce a kinetic poem that incorporates textual and visual movement, partitioning, juxtaposition of images and sound to render a meaningful lyrical experience. From a merely physical perspective, a kinetic poem shows words and phrase fragments intermingling with drafted, redacted visual art.  Like writing a poem from scratch, the digital composition will evolve from an inspirational concept or idea, a story, language combination, or even a striking theme. The artist introduces an initial element on the screen to play with, then mindful that motion and animation carry meaning, they choose unique multilayered effects with variations in movements including resizing, shrinking, crumbling, to exploit the visual and aural characteristics of poetic lines before the viewer’s eyes. There are two step-by-step examples of recipes you can follow closely in this chapter: the first is a surrealist commentary on the evanescence of the female body, the second is a repetitive display and thrumming of the heart organ as a metaphor for our universal human fragility. Both were triggered with alliteration between words that could be moved in a way that evoked or provoked messages sought for or discovered in the process, and an image either generated in DaVinci image generator or found in an online photo gallery. These exercises serve to support the poet-artist in producing broad multi-genre pieces on the screen, either for a private home or public installation.
 genres:
   - Generative Poetry
 difficulty_pans: 2
 yields: >
-  Write 50 words or less for recipe yield
+  Rich, meaningful kinetic poems using MS PowerPoint's Transition and Animation features as a mixed media art experience for the viewer
 github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/modest-beginnings.md
 ---
 
