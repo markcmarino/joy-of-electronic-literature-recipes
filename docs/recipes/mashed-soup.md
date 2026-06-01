@@ -39,6 +39,13 @@ description: |
   ➤➤➤ Create and compile a before rule for your new action related to whether the player is holding one of the cooking tools you have created or not.
 
   After a quick tasting of the story, readers will be guided step-by-step in creating a virtual kitchen of their own using the Inform programming language. The game of Mashed Soup can be played [here](https://mm45nx3c.play.borogove.io/).
+   genres:
+  - Hypertext
+difficulty_pans: 2
+yields: >
+  A freshly-authored interactive narrative set in a kitchen which allows its readers to cook up a memorable meal. 
+github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/mashed-soup.md)
+
 github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/mashed-soup.md)
 ---
 # *Mashed Soup*: An Inform Tasting and Recipe Variously Spiced
