@@ -3,12 +3,15 @@ title: Soul Stew Digital Poetry with Camões and Dinamene
 chef: Rui Torres
 abstract: Classroom recipe for teaching combinatorial digital poetry using classic Portuguese sonnets and their remixes.
 description: >
- Please write 250 words or less description
+ Soul Stew is a playful, slightly existential classroom recipe where classic poetry meets remix culture. Starting with Luís de Camões’ famous sonnet "Alma minha gentil, que te partiste" ["Dear gentle soul, you that departed"] and Manuel Portela’s ghostly comeback "Alma minha gentil, que te quebraste," ["Dear gentle soul, you that were broken"] students step into a poetic kitchen where nothing stays fixed for long.
+  Across two class periods, learners first taste the Renaissance original, its love, loss, heavenly longing, and carefully crafted rhyme and rhythm. Then comes the twist: Dinamene talks back. Portela’s contrasonnet flips perspective, seasoning the dish with role reversal, ambiguity, and a touch of postmodern spice.
+  The real magic happens in the digital cauldron (telepoesis.net/camoes_500), where combinatorial poetry turns words into modular ingredients. With a click, students generate new sonnets, hundreds of variations, each one a slightly different emotional flavor. They explore, remix, compare, and curate their favorite poetic dishes, adding short "tasting notes" along the way.
+  Part literary analysis, part creative lab, this activity invites students to read, write, and play with poetry as something alive, unstable, and collaborative. In this kitchen, dead poets don’t rest, they remix. Students are also encouraged to reflect on authorship, originality, and how meaning shifts when texts are recombined. The experience highlights how digital tools reshape reading practices and invites discussion about creativity in an age of algorithms and endless variation.
 genres:
   - Generative Poetry
 difficulty_pans: 1
 yields: >
-  Write 50 words or less for recipe yield
+  Serves a classroom full of curious minds with dozens of remix sonnets (Camões + Dinamene), each paired with tasting notes, performances, and reflections. Students can collaborate in groups, share interpretations, revise their creations, and present favorite versions aloud, fostering discussion and a deeper appreciation of how poetry evolves through variation.
 github_link: https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/soul-stew.md
 ---
 # Soul Stew: A Digital Poetry Dish with Camões and Dinamene \- A Recipe for Cooking Up Classic Sonnets in the Classroom
