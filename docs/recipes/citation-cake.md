@@ -3,12 +3,15 @@ title: How to Bake a Citation Cake
 chef: Stephanie Strickland and Ian Hatcher
 abstract: Create randomly recombinant text from curated citations using HTML and JavaScript to explore information quality.
 description: >
-  Put 250 words or less here.
+  To what purpose might randomly recombinant text be put as our shelves groan beneath the weight of tasteless and mislabeled information? Creating a Citation Cake of course, one that will allow us to inquire into and taste-test its ingredients! 
+  Citations are text quotes and/or images. They may be fresh or stale, perennially useful like baking powder, or even poisonous. Selection quality is paramount, because ingredients must not only intrigue separately but also blend properly. A math equation will not always work well with the last line of your favorite novel. Sourcing quality ingredients may involve going out of your way, to academia, to Wikipedia, to footnotes, or to your underappreciated local library of print sources. These days, many of us live in citational food deserts. Consider that fruitcakes last even longer when made with the plastic fruit used in photo shoots.
+  Citations should, as specified above, taste good on their own and play well with others. However, revealing their sources may change their flavor significantly. Did you raid a pantry of mouldering or preservative-soaked boxes? Did you seek out a local green market?
+  These are the cake making steps: 1) gather one-line citations; 2) separately note and save their source—best an individual author, but some group-produced citations, for instance a hurricane warning from 2023, prove reliable; 3) combine them in a code-based mixer-oven. The JavaScript code is both mixer and oven, a way to prepare and to test the ultimate deliciousness and reliability of your choice ingredients. 
 genres:
   - Generative Poetry
 difficulty_pans: 1
 yields: >
-  Write 50 words or less for recipe yield
+  A citation cake of one to three layers for you to judge. It will be superb, or not.
 github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/citation-cake.md)
 ---
 
