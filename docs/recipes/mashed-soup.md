@@ -3,12 +3,42 @@ title: Mashed Soup An Inform Tasting and Recipe Variously Spiced
 chef: Judith Pintar
 abstract: A step-by-step Inform recipe teaching parser-based interactive fiction through building a kitchen narrative about grief, memory, and making grandmother's soup.
 description: >
-   Please write description in 250 words or less.
-genres:
-  - Hypertext
-difficulty_pans: 2
-yields: >
-  Please write 50 words or less describing the yield
+description: |
+  Mashed Soup is an interactive story that provides the ingredients needed to make a pot of electronic soup. In a work of "parser-based" interactive fiction, a story emerges in response to actions taken upon objects in a text-based world:
+
+  ```
+  >examine myself
+  You're having a hard day. When you were little your grandmother made soup to cheer you up. You figure it is worth a try.
+
+  >mash potato
+  You tighten your grip on the masher, ready to do the culinary deed.
+  ```
+
+  Inform code is written in something close to natural language — it tells the game what to print when players type an action.
+
+  **Task 4.1**
+
+  ```inform
+  The description of the player is "You're having a hard day. When you were little your
+  grandmother made soup to cheer you up. You figure it's worth a try."
+  ```
+
+  ➤ Give your player-cook an appropriate description that provides narrative context.
+
+  **Task 5.3**
+
+  ```inform
+  Before mashing:
+    if player does not have the masher:
+      say "You can't do that since you're not holding the masher!";
+      stop the action;
+    else:
+      say "You tighten your grip on the masher, ready to do the culinary deed."
+  ```
+
+  ➤➤➤ Create and compile a before rule for your new action related to whether the player is holding one of the cooking tools you have created or not.
+
+  After a quick tasting of the story, readers will be guided step-by-step in creating a virtual kitchen of their own using the Inform programming language. The game of Mashed Soup can be played [here](https://mm45nx3c.play.borogove.io/).
 github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/mashed-soup.md)
 ---
 # *Mashed Soup*: An Inform Tasting and Recipe Variously Spiced
