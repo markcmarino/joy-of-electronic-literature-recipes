@@ -3,14 +3,21 @@ title: Jolly Apogee A Minimal Embodied Gesture Poem
 chef: Judd Morrissey
 abstract: A smartphone gesture poem activated by bodily movement, drawn from a large-scale performance merging embodied poetics and queer archive.
 description: >
-    Please write a description, under 250 words.
+  Jolly apogee is a minimal embodied gesture poem prepared as an open-ended recipe, combining computational poetics with the textures of lived experience. Developed through the performance practice of Anatomical Theatres of Mixed Reality (ATOM-r), the work reduces large-scale concerns—body, archive, sexuality, and mediation—into a set of simple, repeatable ingredients.
+
+  The base components are readily available: a smartphone equipped with a compass, accelerometer, and gyroscope; a body in motion; and a set of prompts that draw language from the history of that body, mingled with the indulgence of a transhistorical crush. Participants begin by generating textual material through timed writing exercises, treating the body as both forensic record and sensorial archive. These fragments become the primary matter of the poem.
+
+  The recipe proceeds by aligning two systems: the coordinate axes of the device (x, y, z) and the anatomical planes of the body (sagittal, coronal, transverse). Through this pairing, orientation becomes both a technical and poetic operation. Gesture functions as a method of activation, releasing a gustatory cascade of words in response to movement and force.
+
+  Nuances of flavor are introduced through historical and affective references, including Samuel Steward’s coded archives of desire and David Wojnarowicz’s writing on the body as a site of accumulated history. These elements infuse the work with density and resonance.
+
+  The final composition is unique to each chef and can be savored alone or shared across our somatic network with another shaking body. 
 genres:
   - Performance/Experience
   - Word Manipulation
 difficulty_pans: 3
 yields: >
-   Write 50-words or less for yields
-github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/jolly-apogee.md)
+  A gesture poem is a volatile dish: movement activates text, memory seasons it, and the body serves as both vessel and heat source. Yaw, pitch, or roll it—then pass it to a friend. github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/jolly-apogee.md)
 ---
 # **Jolly apogee: A Minimal Embodied Gesture Poem**
 
