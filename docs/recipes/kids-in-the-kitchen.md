@@ -4,7 +4,15 @@ chef: R. Lyle Skains
 abstract: A Twine story prompter that generates starter dough for interactive digital
   narratives, scaffolding new designers from story idea to first branching passage.
 description: >
-  Write a description in 250 words or less.
+  Kids in the Kitchen is not a recipe for a finished story. It is a way of getting past the moment where nothing exists except a blinking cursor and a vague sense that interactive narrative should be possible.
+
+  Built in Twine, the Story Prompter breaks the early design problem into smaller, tolerable decisions: where the story is, who it follows, how it is told, and what happens first. From there, it assembles a minimal structure (a starting passage and several linked branches) that can be dropped directly into a new project. The result is less a template than a piece of living scaffolding: enough to stand on, not enough to stay comfortable.
+
+  Two entry points accommodate different failure modes. One assumes the user already has an idea and needs help operationalizing it. The other begins with personal interests and works outward, tracing their connections to systems like energy, transport, or consumption. In both cases, the emphasis is on movement: from abstraction to text, from idea to structure, from intention to something that can be clicked.
+
+  What this teaches, indirectly, is that interactive narrative is neither pure expression nor pure system, but a negotiation between the two. The prompter does not resolve that tension. It makes it visible early, when it is still possible to work with it instead of around it.
+genres:
+
 genres:
   - Hypertext
 custom_genres:
@@ -12,7 +20,7 @@ custom_genres:
   - Climate fiction
 difficulty_pans: 2
 yields: >
- Write what this yields in 50 words or less.
+  A functioning Twine starter: one opening passage, multiple linked branches, and a defined narrative frame (world, perspective, characters, initial actions). Enough structure to explore, revise, and expand, without removing the need to make decisions or the responsibility for where the story goes next.
 github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/kids-in-the-kitchen.md?plain=1)
 ---
 
