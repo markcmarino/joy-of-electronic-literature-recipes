@@ -4,7 +4,9 @@ chef: Deena Larsen
 abstract: An exploration of the meanings links carry in hypertext, with three
   recipes for creating poster-based and electronic linked narratives.
 description: >
-  Put a description of under 250 words here.
+  Links, those connections from concept to concept and from plot point to plot point, are the basic ingredients in any recipe. If we need thousand words to convey what a single picture can, then we need a thousand linear pages to convey what a single link can. And just as pictures can be interpreted in many ways, so can links. This recipe is designed to unleash your powers of linking and thinking to empower you to cook up any story and flavor it with an underlying sense of connectedness. Without spices, a dish lacks taste and diners find the food difficult to swallow. Without links, an electronic literature work lacks cohesion and readers find the story difficult to follow. Links not only add meaning to your dish, they add an underlying layer of congruence; the yeast you need for your story to rise up.  This recipe will cover the main types of links (external, functional, navigational, and meaning) so that you can mix and match to create a whole-some tale.
+
+    This recipe will take you through the basics so you can whip up links on your own. The simplest recipe calls for pen and paper or even sticks and stones to create a posterboard with nodes and links. The next level up takes the posterboard into a group writing exercise—perfect for student classes, conference workshops, and writers’ groups. Once these basic skills are mastered, you can then turn on the electricity and start creating electronic works.  See http://www.deenalarsen.net/joel.
 genres:
   - Hypertext
 custom_genres:
@@ -12,8 +14,7 @@ custom_genres:
   - Linking practice
 difficulty_pans: 1
 yields: >
-  write 50-word yields
-github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/unleashing-linking-powers.md)
+  This recipe yields the power to create meaning by a simple act of clicking a word that leads into another doorway—coloring both the entryway and the landing zone. Serve this power to others to add nuance and spice to your non-linear, connective creations. Meant for readers and creators.github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/unleashing-linking-powers.md)
 ---
 
 # Unleashing Your Linking Powers
