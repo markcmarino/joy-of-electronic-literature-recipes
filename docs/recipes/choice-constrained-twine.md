@@ -3,13 +3,16 @@ title: Choice-Constrained Twine with Harlowe 3.x
 chef: Anastasia Salter
 abstract: An introduction to variables and conditional statements in Twine's Harlowe format, modeled on the landmark work Depression Quest.
 description: >
-  Please, write a description of 250 words or less.
+ Using Depression Quest (Quinn et al.) as a model, the recipe demonstrates how authors can make certain narrative options visible but inaccessible to players based on tracked stats — a technique that creates emotional resonance by showing readers the choices they cannot make.
+
+  The recipe walks through building this system step by step. First, authors create a "startup"-tagged passage to initialize variables, both numerical stats like curiosity and persistence (which can be randomized) and named values like a character's name. Next, a "header"-tagged passage provides a persistent on-screen display of the player's current stats using Harlowe macros for alignment, boxing, and border styling. An optional title passage demonstrates player input through Harlowe's input-box macro, letting readers name their character before play begins.
+
+  The core mechanic uses conditional statements to gate choices behind stat thresholds. When a player's curiosity or persistence falls below a required value, the corresponding option disappears, funneling players toward less desirable paths. The recipe emphasizes always including at least one ungated option, typically the “worst” choice, to prevent dead ends, mirroring Depression Quest's design where the path of least resistance is always available.
 genres:
   - Hypertext
 difficulty_pans: 1
 yields: >
-  Please write 50 words or less to describe the yield.
-github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/choice-constrained-twine.md)
+  This recipe yields a functional Twine work featuring stat-tracked player progression, a persistent status display, character name input, and branching passages gated by conditional logic, a foundation authors can expand into nuanced interactive narratives where constrained choice communicates meaning as powerfully as the options players can actually choose.github_link: (https://github.com/markcmarino/joy-of-electronic-literature-recipes/blob/master/docs/recipes/choice-constrained-twine.md)
 ---
 
 # Choice‑Constrained Twine with Harlowe 3.x
