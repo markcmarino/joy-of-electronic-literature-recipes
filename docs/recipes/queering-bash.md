@@ -3,8 +3,9 @@ title: Queering Bash Love Poems as Recipes
 chef: Winnie Soon and Mara Karagianni
 abstract: Create electronic poetry using Bash terminal commands that transform code into love letters and feelings.
 description: >
- "Queering Bash" transforms Bash scripting into queer love letters and poetry, resisting Big Tech cloud abstractions. This recipe discusses Bash basics (loops, conditionals, echoing) through guided syntax examples, then invites custom love poems blending code with resilience and desire.
-The process critiques tech power imbalances and gender gaps, fostering community through "computing otherwise." Participants create commands to evoke intimacy beyond profit-driven processes, queering technical histories and challenging normative tech narratives.  
+  "Queering Bash" transforms Bash scripting into queer love letters and poetry, resisting Big Tech cloud abstractions. This recipe discusses Bash basics (loops, conditionals, echoing) through guided syntax examples, then invites custom love poems blending code with resilience and desire.
+
+  The process critiques tech power imbalances and gender gaps, fostering community through "computing otherwise." Participants create commands to evoke intimacy beyond profit-driven processes, queering technical histories and challenging normative tech narratives.  
 genres:
   - Generative Poetry
 difficulty_pans: 1
